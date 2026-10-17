@@ -1,0 +1,35 @@
+{
+  "totalBank": 682,
+  "balancedCore": 400,
+  "balancedCoreByTopic": {
+    "interaction": 100,
+    "design": 100,
+    "role": 100,
+    "balance": 100
+  },
+  "fullBankByTopic": {
+    "interaction": 334,
+    "design": 101,
+    "role": 102,
+    "balance": 145
+  },
+  "additionalPoolByTopic": {
+    "interaction": 234,
+    "balance": 45,
+    "role": 2,
+    "design": 1
+  },
+  "newEntries": 82,
+  "newByTopic": {
+    "role": 69,
+    "design": 13
+  },
+  "activeCrosswordEntriesIncluded": 41,
+  "duplicateNewAnswers": 0,
+  "duplicateNewQuestions": 0,
+  "answerLeakedIntoQuestion": 0,
+  "allCluesNumberReferencesRemoved": true,
+  "newAnswerLengthMin": 7,
+  "newAnswerLengthMax": 25,
+  "answersAtMost25Letters": true
+}

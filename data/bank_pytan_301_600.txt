@@ -1,0 +1,311 @@
+# Nowe hasła: pytanie i odpowiedź. Nagłówki: dział | źródła | charakter | lokalizacja.
+@interaction|2|pojęcie pomocnicze|sekcje 3–6: mechanizmy uczenia wspieranego przez SRS
+CEL|Zamierzony efekt aktywności, odpowiadający na pytanie: po co studenci mają ją wykonać?
+WIEDZA|Zasób wiadomości i rozumienia, z którego student korzysta podczas rozwiązywania przypadku.
+PAMIĘĆ|Zdolność przechowywania i odtwarzania informacji, potrzebna przy odpowiadaniu bez notatek.
+ANALIZA|Rozłożenie przypadku na elementy i zbadanie ich powiązań przed wyborem rozwiązania.
+ARGUMENT|Racja przytoczona przez studenta na poparcie wybranej odpowiedzi.
+DOWÓD|Dane lub obserwacja stanowiące podstawę uznania twierdzenia za uzasadnione.
+WNIOSEK|Stwierdzenie wyprowadzone z przesłanek po omówieniu problemu.
+DIALOG|Rozmowa, w której uczestnicy odnoszą się do wypowiedzi drugiej strony.
+NAMYSŁ|Spokojne rozważenie pytania przed udzieleniem odpowiedzi; inaczej zastanowienie.
+BŁĄD|Odpowiedź lub krok rozumowania niezgodny z przyjętym kryterium poprawności.
+PEWNOŚĆ|Deklarowany stopień przekonania studenta, że jego odpowiedź jest poprawna.
+DIAGNOZA|Rozpoznanie trudności studentów na podstawie ich odpowiedzi; w dydaktyce nie oznacza rozpoznania choroby.
+TRANSFER|Wykorzystanie poznanej zasady w nowej sytuacji, innej niż ćwiczony przykład.
+INTEGRACJA|Łączenie nowej informacji z wcześniejszą wiedzą w spójną całość.
+PORÓWNANIE|Zestawienie dwóch uzasadnień w celu wskazania podobieństw i różnic.
+ZASTOSOWANIE|Użycie poznanego pojęcia lub reguły do rozwiązania konkretnego zadania.
+PRZYPOMINANIE|Wydobywanie informacji z pamięci zamiast ponownego odczytywania ich z materiału.
+UZASADNIENIE|Wyjaśnienie, dlaczego wybrano odpowiedź, zawierające przesłanki tego wyboru.
+SAMOKONTROLA|Sprawdzanie własnych odpowiedzi i korygowanie zauważonych błędów.
+METAPOZNANIE|Wiedza o własnym poznawaniu i świadome monitorowanie tego, jak się uczymy.
+SAMOOCENA|Własna ocena poziomu wiedzy, którą warto zestawić z wynikiem zadania.
+SAMOREGULACJA|Samodzielne wyznaczanie celów uczenia, monitorowanie postępów i zmienianie sposobu pracy.
+KALIBRACJA|Dopasowanie deklarowanej pewności do rzeczywistej trafności własnych odpowiedzi.
+NIEPEWNOŚĆ|Stan, w którym student nie ma dostatecznych podstaw, by zdecydowanie uznać wybór za trafny.
+WYJAŚNIENIE|Przedstawienie, jak lub dlaczego zachodzi omawiane zjawisko.
+PRZEWIDYWANIE|Wskazanie oczekiwanego wyniku procesu, zanim zostanie pokazany jego dalszy przebieg.
+KOREKTA|Poprawienie błędnego fragmentu odpowiedzi po otrzymaniu informacji zwrotnej.
+PRZEKONANIE|Pogląd uznawany przez studenta za prawdziwy, który może wymagać konfrontacji z dowodami.
+ZROZUMIENIE|Uchwycenie znaczenia i relacji między pojęciami, pozwalające wyjaśnić je własnymi słowami.
+KRYTYCYZM|Postawa sprawdzania podstaw twierdzenia przed jego przyjęciem, także gdy podaje je aplikacja.
+@interaction|2, 3, 4|pojęcie pomocnicze|Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background
+SRS|Angielski skrót Student Response System, oznaczający system zbierania odpowiedzi studentów.
+PRS|Angielski skrót Personal Response System używany przez Hornbuckle’a i współautorów w pracy o aktywności na kursie STEM.
+ARS|Angielski skrót Audience Response System, czyli systemu odpowiedzi audytorium.
+AI|Dwuliterowy angielski skrót sztucznej inteligencji rozważanej przez Krumsvika i Slettvoll jako wsparcie systemów odpowiedzi.
+QR|Dwuliterowe oznaczenie kodu skanowanego telefonem, aby dołączyć do ankiety lub głosowania.
+SLIDO|System użyty przez Höbausa i Schmidmaiera do anonimowego zbierania odpowiedzi podczas wykładów o refleksji.
+MOODLE|Platforma wykorzystana przez Höbausa i Schmidmaiera do odroczonego pomiaru wiedzy w badaniu refleksji na wykładach medycznych.
+KLIKER|Mały pilot służący studentowi do elektronicznego wskazania odpowiedzi podczas zajęć.
+SMARTFON|Telefon z dostępem do aplikacji i internetu, który może zastępować pilot do głosowania.
+TABLET|Przenośne urządzenie z ekranem dotykowym, większe od telefonu, używane do odpowiadania lub rysowania.
+LAPTOP|Przenośny komputer z klawiaturą i otwieranym ekranem, umożliwiający udział w głosowaniu internetowym.
+PLATFORMA|Środowisko internetowe skupiające materiały kursu, zadania i narzędzia komunikacji.
+HISTOGRAM|Tak Hornbuckle i współautorzy nazywają wykres zbiorczych odpowiedzi PRS wyświetlany podczas zajęć.
+AGREGACJA|Łączenie pojedynczych odpowiedzi studentów w zbiorcze zestawienie dla całej sali.
+ANONIMIZACJA|Przekształcenie danych tak, aby nie można było ustalić tożsamości odpowiadających osób.
+PRYWATNOŚĆ|Sfera ochrony informacji o osobie, ważna przy gromadzeniu danych o odpowiedziach studentów.
+STRONNICZOŚĆ|Systematyczne faworyzowanie jednych grup lub interpretacji przez dane, narzędzie albo sposób analizy.
+WYJAŚNIALNOŚĆ|Możliwość zrozumienia podstaw sugestii systemu AI, istotna dla oceny jej wiarygodności.
+CYFRYZACJA|Wprowadzanie narzędzi i procesów cyfrowych do działalności uczelni.
+AUTOMATYZACJA|Przekazanie systemowi powtarzalnych czynności, takich jak zliczanie odpowiedzi.
+PERSONALIZACJA|Dostosowanie informacji zwrotnej do potrzeb konkretnego odbiorcy.
+ADAPTACJA|Zmiana dalszego toku nauczania w odpowiedzi na ujawnione trudności grupy.
+GRYWALIZACJA|Wprowadzanie punktów, odznak lub innych elementów gier do aktywności dydaktycznej.
+WIELOZADANIOWOŚĆ|Próba wykonywania kilku czynności naraz, na przykład słuchania wykładu i śledzenia mediów społecznościowych.
+ROZPROSZENIE|Odciągnięcie uwagi od zadania dydaktycznego przez bodźce niezwiązane z jego celem.
+KOMPETENCJE CYFROWE|Wiedza i umiejętności potrzebne do świadomego, krytycznego korzystania z technologii edukacyjnych.
+ANALITYKA UCZENIA|Analizowanie danych o aktywności i postępach, aby lepiej rozumieć proces uczenia się.
+PĘTLA INFORMACJI ZWROTNEJ|Cykl: odpowiedź studentów, jej interpretacja, reakcja prowadzącego i ponowne sprawdzenie rozumienia.
+ODCIĄŻENIE POZNAWCZE|Przeniesienie części pracy umysłowej na narzędzie, które może ograniczać własny wysiłek, jeśli jest nadużywane.
+LUKA INFORMACJI ZWROTNEJ|Rozbieżność między otrzymaniem komentarza do odpowiedzi a wykorzystaniem go w dalszej nauce.
+@design|2, 4, 5|przykład praktyczny|opracowanie własne na podstawie projektowania pytań i omówień w tych pracach
+TRZON|Główna część pytania testowego przedstawiająca problem, przed listą wariantów odpowiedzi.
+DYSTRAKTOR|Niepoprawny, ale wiarygodny wariant odpowiedzi w pytaniu wyboru.
+KLUCZ|Zestaw poprawnych odpowiedzi służący do oceniania testu.
+POLECENIE|Fragment zadania mówiący studentowi, jaką czynność ma wykonać.
+KRYTERIUM|Jawna podstawa rozstrzygnięcia, czy odpowiedź spełnia wymagania.
+JEDNOZNACZNOŚĆ|Cecha pytania pozwalająca zrozumieć je w jeden zamierzony sposób.
+TRUDNOŚĆ|Cecha zadania opisująca, jak wymagające jest ono dla danej grupy studentów.
+TRAFNOŚĆ TREŚCIOWA|Stopień, w jakim zadania obejmują wiedzę i umiejętności, które mają być sprawdzane.
+PYTANIE OTWARTE|Pytanie, na które student sam formułuje odpowiedź, bez wybierania z gotowej listy.
+PYTANIE ZAMKNIĘTE|Pytanie wymagające wyboru spośród podanych odpowiedzi.
+PYTANIE KONCEPCYJNE|Pytanie sprawdzające rozumienie pojęcia lub zależności, a nie wyłącznie pamięć nazwy.
+PYTANIE DIAGNOSTYCZNE|Pytanie służące rozpoznaniu aktualnego rozumienia i trudności studentów.
+PYTANIE O PEWNOŚĆ|Pytanie dodatkowe, w którym student określa, jak mocno wierzy w trafność swojego wyboru.
+PYTANIE O UZASADNIENIE|Pytanie dodatkowe wymagające podania przesłanek, na których oparto wybór wariantu.
+PRZYPADEK KLINICZNY|Opis sytuacji pacjenta stanowiący punkt wyjścia do zastosowania wiedzy medycznej.
+WINIETA|Krótki opis przypadku lub sytuacji, na podstawie którego student podejmuje decyzję.
+SCENARIUSZ|Zaplanowany przebieg sytuacji lub aktywności, zawierający kolejne działania uczestników.
+PRZESŁANKA|Informacja przyjęta jako podstawa rozumowania prowadzącego do wniosku.
+ZAŁOŻENIE|Warunek przyjęty w zadaniu jako obowiązujący, choć nie jest w nim dowodzony.
+NEGACJA|Zaprzeczenie, na przykład słowo „nie” w pytaniu o wariant niepoprawny.
+PODPOWIEDŹ|Dodatkowa wskazówka ułatwiająca rozwiązanie zadania bez ujawnienia całego rozwiązania.
+NIEJEDNOZNACZNOŚĆ|Wada sformułowania, przez którą pytanie można sensownie zrozumieć na kilka sposobów.
+ŻARGON|Specjalistyczne słownictwo, które może utrudniać zrozumienie polecenia osobom początkującym.
+DEFINICJA|Objaśnienie znaczenia terminu, pozwalające odróżnić go od pojęć pokrewnych.
+KONTRPRZYKŁAD|Przypadek pokazujący, że proponowane ogólne twierdzenie nie zawsze jest prawdziwe.
+WARUNEK BRZEGOWY|Okoliczność wyznaczająca granicę stosowalności omawianej zasady lub modelu.
+PARAFRAZA|Przekazanie tego samego sensu innymi słowami; może służyć sprawdzeniu rozumienia polecenia.
+PRECYZJA JĘZYKA|Dokładność sformułowania, która ogranicza dowolność interpretacji pytania.
+STOPNIOWANIE TRUDNOŚCI|Układanie zadań od prostszych do bardziej wymagających.
+PILOTAŻ PYTANIA|Próbne użycie nowej pozycji przed właściwym zastosowaniem, aby wykryć niejasności.
+@interaction|2, 3, 5|przykład praktyczny|opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów
+ZESPÓŁ|Kilka osób wspólnie pracujących nad jednym zadaniem i jego rozwiązaniem.
+SĄSIAD|Osoba siedząca obok studenta, z którą może on omówić odpowiedź bez zmiany miejsca.
+MODERATOR|Osoba pilnująca tematu i przebiegu dyskusji oraz dopuszczająca uczestników do głosu.
+RZECZNIK|Wyznaczona osoba przedstawiająca na forum ustalenia swojego zespołu.
+SEKRETARZ|Osoba w zespole zapisująca argumenty i ustalenia pozostałych uczestników.
+OPONENT|Uczestnik przedstawiający zastrzeżenia wobec rozpatrywanego stanowiska.
+KONSENSUS|Wspólne stanowisko wypracowane przez uczestników po rozważeniu różnic.
+SPÓR|Sytuacja, w której uczestnicy bronią sprzecznych stanowisk w tej samej sprawie.
+KONTRARGUMENT|Racja podważająca argument przedstawiony przez rozmówcę.
+WYMIANA|Obustronne przekazywanie sobie myśli lub uzasadnień w rozmowie.
+SŁUCHANIE|Odbieranie wypowiedzi rozmówcy z uwagą, potrzebne do odniesienia się do jego argumentu.
+WSPÓŁPRACA|Wspólne działanie na rzecz rozwiązania zadania, zamiast niezależnej pracy każdej osoby.
+WSPÓŁODPOWIEDZIALNOŚĆ|Dzielenie odpowiedzialności za wynik i przebieg pracy zespołu.
+PERSPEKTYWA|Sposób spojrzenia na problem, który może różnić uczestników tej samej rozmowy.
+UZGODNIENIE|Ustalenie wspólnej odpowiedzi po omówieniu rozbieżności w zespole.
+ROZBIEŻNOŚĆ|Różnica między wyborami lub uzasadnieniami studentów, którą można poddać dyskusji.
+DOMINACJA|Sytuacja, w której jedna osoba przejmuje większość czasu i wpływu w rozmowie zespołu.
+MILCZENIE|Brak wypowiedzi uczestnika, który sam w sobie nie pozwala rozpoznać poziomu jego wiedzy.
+PRESJA GRUPY|Wpływ oczekiwań innych osób skłaniający do przyjęcia ich stanowiska.
+KONFORMIZM|Dostosowywanie własnej odpowiedzi do stanowiska większości mimo braku przekonujących argumentów.
+AUTONOMIA|Możliwość samodzielnego wyrobienia i uzasadnienia własnego stanowiska.
+ZAUFANIE|Przekonanie, że partnerzy rozmowy potraktują wypowiedź uczciwie i z szacunkiem.
+SZACUNEK|Traktowanie rozmówcy z poszanowaniem jego godności także przy krytyce odpowiedzi.
+WZAJEMNOŚĆ|Obustronny udział w słuchaniu i wyjaśnianiu, zamiast jednostronnego pouczania partnera.
+UDZIAŁ|Włączenie się w aktywność, na przykład przez zgłoszenie odpowiedzi lub argumentu.
+ROLE ZESPOŁOWE|Uzgodnione funkcje uczestników, takie jak zapisywanie ustaleń i przedstawianie ich grupie.
+CZAS NA NAMYSŁ|Okres przeznaczony na samodzielne rozważenie pytania przed rozpoczęciem rozmowy.
+ROZMOWA W PARZE|Wymiana uzasadnień między dwiema osobami przed wspólnym omówieniem w sali.
+FORUM|Cała grupa jako grono odbiorców wypowiedzi; ustalenia par można przedstawić na nim.
+RUNDA WYPOWIEDZI|Ustalona kolejność krótkich głosów, dająca każdemu uczestnikowi zespołu możliwość udziału.
+@role|6|pojęcie pomocnicze|sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących
+UCZELNIA|Instytucja szkolnictwa wyższego, w której prowadzi się wykłady i inne zajęcia akademickie.
+AUDYTORIUM|Ogół słuchaczy, do których prowadzący kieruje wykład.
+MONOLOG|Dłuższa wypowiedź jednej osoby bez wymiany zdań z odbiorcami.
+PRZEKAZ|Treść kierowana przez nadawcę do odbiorców, na przykład podczas objaśniania materiału.
+STRUKTURA|Sposób uporządkowania części wykładu i ich wzajemnych powiązań.
+ORGANIZACJA|Ustalenie warunków i przebiegu zajęć, takich jak czas, miejsca i sposób komunikacji.
+LOGISTYKA|Praktyczne zapewnienie sali, sprzętu, dostępu i sprawnego przemieszczania się uczestników.
+SKALA|Rozmiar przedsięwzięcia dydaktycznego, rosnący wraz z liczbą studentów objętych działaniem.
+LICZEBNOŚĆ|Liczba osób należących do grupy, istotna przy doborze sposobu zbierania odpowiedzi.
+FREKWENCJA|Obecność studentów na zajęciach wyrażana liczbą lub udziałem uczestniczących osób.
+KADRA|Zespół osób zatrudnionych do prowadzenia działalności dydaktycznej i naukowej uczelni.
+ZASOBY|Dostępne środki, czas, materiały i wyposażenie potrzebne do przygotowania zajęć.
+OBCIĄŻENIE PRACĄ|Łączny zakres obowiązków prowadzącego, ograniczający czas na tworzenie materiałów.
+PROGRAM STUDIÓW|Uporządkowany opis kształcenia obejmujący między innymi zajęcia i zakładane efekty uczenia się.
+KURS|Cykl zajęć poświęcony określonemu przedmiotowi, którego elementem może być wykład.
+DYDAKTYKA|Dziedzina zajmująca się nauczaniem i uczeniem się oraz organizowaniem tych procesów.
+METODA|Ustalony sposób działania dydaktycznego służący osiągnięciu celu uczenia.
+FORMA ZAJĘĆ|Organizacyjna postać nauczania, na przykład wykład, ćwiczenia lub laboratorium.
+NAUCZANIE STACJONARNE|Prowadzenie zajęć przy fizycznej obecności studentów i nauczyciela w miejscu nauki.
+NAUCZANIE ZDALNE|Prowadzenie zajęć, gdy uczestnicy łączą się na odległość zamiast spotkać się w sali.
+KSZTAŁCENIE MIESZANE|Łączenie elementów nauczania w sali i online w ramach jednego procesu kształcenia.
+SZKOLENIE KADRY|Zorganizowane rozwijanie umiejętności prowadzących, na przykład w zakresie przygotowania animacji.
+WARSZTAT DYDAKTYCZNY|Zasób umiejętności i sposobów pracy, którymi prowadzący posługuje się podczas nauczania.
+MATERIAŁY DYDAKTYCZNE|Teksty, schematy, nagrania i inne zasoby przygotowane do wspierania uczenia się.
+REPOZYTORIUM|Uporządkowane miejsce przechowywania i udostępniania zasobów, na przykład szablonów do wykładu.
+DOŚWIADCZENIE|Wiedza praktyczna zdobyta dzięki wcześniejszemu wykonywaniu podobnych działań dydaktycznych.
+KOMPETENCJA|Połączenie wiedzy, umiejętności i postaw potrzebnych do skutecznego wykonywania określonych zadań.
+NAUKI PRZYRODNICZE|Dziedziny badające świat przyrody; fizjologia stanowi przykład obszaru z nimi związanego.
+FIZJOLOGIA|Nauka o funkcjonowaniu organizmów, której nauczaniu poświęcono artykuł Corka i Yhnell.
+KSZTAŁCENIE AKADEMICKIE|Proces nauczania i uczenia się realizowany na poziomie szkolnictwa wyższego.
+@design|6|opracowanie dydaktyczne|sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja
+OBRAZ|Wizualne przedstawienie treści, które w materiałach multimedialnych można połączyć ze słownym objaśnieniem.
+SCHEMAT|Uproszczone przedstawienie elementów procesu i zależności między nimi.
+SZKIC|Wstępny, uproszczony rysunek pozwalający pokazać najważniejsze elementy wyjaśnienia.
+IKONA|Mały symbol graficzny reprezentujący obiekt lub działanie w animowanym materiale.
+SLAJD|Pojedyncza plansza prezentacji, na której można stopniowo odsłaniać elementy procesu.
+KADR|Pojedynczy obraz filmu lub animacji; jego zatrzymanie pozwala omówić dany moment procesu.
+RUCH|Zmiana położenia elementu, którą animacja może pokazać bezpośrednio.
+PROCES|Uporządkowany przebieg zmian w czasie, na przykład kolejne etapy działania odruchu.
+SEKWENCJA|Ustalona kolejność elementów, na przykład kroków pokazywanego zjawiska.
+SZABLON|Przygotowany wcześniej pusty lub częściowo uzupełniony wzór do wspólnego rysowania.
+ADNOTACJA|Dopisek lub oznaczenie nanoszone na schemat podczas jego objaśniania.
+PROJEKTOR|Urządzenie wyświetlające materiał prowadzącego na dużym ekranie w sali.
+KAMERA|Urządzenie rejestrujące obraz, którym można pokazać studentom rysunek wykonywany na żywo.
+POWERPOINT|Program do prezentacji wykorzystany przez Corka i Yhnell do animowania elementów rysunku.
+MULTIMEDIA|Materiały łączące różne sposoby przekazywania treści, na przykład obraz i mowę.
+WIZUALIZACJA|Przedstawienie informacji w postaci graficznej ułatwiającej śledzenie zależności.
+KANAŁ WERBALNY|Sposób przetwarzania informacji słownych omawiany obok przetwarzania obrazów w teorii uczenia multimedialnego.
+KANAŁ WIZUALNY|Sposób przetwarzania informacji obrazowych omawiany w teorii uczenia multimedialnego.
+POJEMNOŚĆ|Ograniczona ilość informacji, jaką dany kanał przetwarzania może obsłużyć jednocześnie.
+PRZECIĄŻENIE|Stan, w którym wymagania zadania przekraczają dostępne możliwości przetwarzania informacji.
+SYNCHRONIZACJA|Czasowe dopasowanie objaśnienia słownego do pojawiającego się fragmentu obrazu.
+OBRAZ STATYCZNY|Ilustracja, której elementy pozostają nieruchome i widoczne w niezmienionej postaci.
+RYSUNEK DYNAMICZNY|Obraz powstający stopniowo podczas objaśniania, zamiast gotowej ilustracji pokazanej od razu.
+RYSOWANIE NA ŻYWO|Tworzenie schematu przez prowadzącego w czasie rzeczywistym, na oczach studentów.
+WSPÓLNE RYSOWANIE|Aktywność, w której studenci tworzą schemat równolegle z prowadzącym.
+OPIS SŁOWNY|Werbalne przedstawienie tego, co pokazuje ilustracja, ważne także dla osób słabowidzących.
+MATERIAŁ POWTÓRKOWY|Zasób, do którego student wraca po wykładzie, aby utrwalić treści.
+ZASOBY TECHNICZNE|Sprzęt i oprogramowanie potrzebne do przygotowania i wyświetlenia materiału multimedialnego.
+OBJAŚNIANIE ETAPAMI|Przedstawianie procesu krok po kroku, z komentarzem do każdej kolejnej części.
+PRZEPŁYW|Przemieszczanie się, na przykład płynu w układzie, które można pokazać za pomocą animacji.
+@balance|1, 3, 4, 5|pojęcie pomocnicze|pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac
+STEM|Angielski skrót łączący nauki przyrodnicze, technologię, inżynierię i matematykę w metaanalizie Xu i współautorów.
+GPA|Angielski skrót średniej ocen wykorzystywanej przez Hornbuckle’a i współautorów do opisu wcześniejszych osiągnięć.
+OLS|Skrót angielskiej nazwy zwykłej metody najmniejszych kwadratów używanej w regresji liniowej.
+MCQ|Angielski skrót pytania wielokrotnego wyboru używany w pracach o sprawdzaniu wiedzy studentów medycyny.
+LGI|Angielski skrót dużej interaktywnej sesji zajęciowej w pracy Boedekera i współautorów o aktywnym i pasywnym nauczaniu.
+ICAP|Skrót modelu wyróżniającego aktywność interaktywną, konstruktywną, aktywną i pasywną, przywołanego przez Höbausa i Schmidmaiera.
+TBL|Angielski skrót uczenia opartego na zespołach, przywoływanego w pracach o dydaktyce medycznej.
+PBL|Angielski skrót uczenia opartego na problemach, występującego w metaanalizie Xu i współautorów.
+CBL|Angielski skrót uczenia opartego na przypadkach, przywołanego przez Höbausa i Schmidmaiera w pracy o refleksji.
+SD|Dwuliterowy angielski skrót odchylenia standardowego, używany między innymi do wyrażania wielkości różnic wyników.
+PRÓBA|Zbiór osób objętych pomiarem, na podstawie którego badacze formułują wnioski.
+POPULACJA|Ogół osób, do których badacz chciałby odnieść wyniki uzyskane w badaniu.
+KOHORTA|Grupa osób wyodrębniona na podstawie wspólnego doświadczenia lub etapu, na przykład roku studiów.
+PODGRUPA|Część badanych wyodrębniona do analizy, na przykład według wcześniejszych osiągnięć.
+RANDOMIZACJA|Losowy przydział uczestników do porównywanych warunków badania.
+INTERWENCJA|Działanie wprowadzone w badaniu, którego następstwa są oceniane.
+GRUPA KONTROLNA|Grupa stanowiąca punkt odniesienia do oceny działania interwencji.
+EKSPERYMENT|Badanie, w którym badacz wprowadza określoną zmianę i obserwuje jej skutki w kontrolowanych warunkach.
+QUASI-EKSPERYMENT|Badanie interwencji bez pełnego losowego przydziału, wymagające ostrożniejszego wnioskowania przyczynowego.
+BADANIE OBSERWACYJNE|Badanie rejestrujące zależności bez przydzielania uczestnikom przez badacza ocenianej ekspozycji.
+UKŁAD KRZYŻOWY|Projekt, w którym te same grupy przechodzą kolejno przez oba porównywane warunki.
+PRETEST|Pomiar wiedzy wykonany przed interwencją dydaktyczną.
+POSTTEST|Pomiar wiedzy wykonany po zakończeniu interwencji dydaktycznej.
+POMIAR ODROCZONY|Sprawdzenie wiedzy po upływie pewnego czasu od zajęć, zamiast wyłącznie bezpośrednio po nich.
+RETENCJA|Utrzymanie w pamięci wcześniej poznanej wiedzy, oceniane także po przerwie od nauczania.
+REPLIKACJA|Ponowne przeprowadzenie badania w celu sprawdzenia, czy jego rezultat się odtworzy.
+ZMIENNA ZAKŁÓCAJĄCA|Czynnik powiązany z badaną przyczyną i wynikiem, który może zniekształcać ocenianą zależność.
+EFEKT KOLEJNOŚCI|Wpływ tego, który warunek lub temat uczestnik poznaje jako pierwszy.
+EFEKT PRZENIESIENIA|Wpływ wcześniejszego warunku badania na wynik uzyskany w warunku późniejszym.
+ODPŁYW UCZESTNIKÓW|Zmniejszenie liczby badanych między kolejnymi pomiarami wskutek nieuczestniczenia części osób.
+@balance|1, 4, 5|pojęcie pomocnicze|terminologia do odczytywania analiz i ograniczeń wyników
+DANE|Zapisane obserwacje lub wyniki pomiarów będące podstawą analizy badawczej.
+POMIAR|Przypisanie wyniku obserwowanemu zjawisku według określonej procedury.
+ZMIENNA|Cecha, która może przyjmować różne wartości, na przykład wynik egzaminu.
+ŚREDNIA|Suma wyników podzielona przez ich liczbę; podstawowa miara poziomu wyników grupy.
+ROZKŁAD|Sposób występowania wartości w zbiorze danych, pokazujący także ich zróżnicowanie.
+ODSETEK|Udział części w całości wyrażony w procentach.
+KORELACJA|Statystyczna współzmienność dwóch cech, która sama nie dowodzi związku przyczynowego.
+REGRESJA|Rodzina metod modelujących związek wyniku z jedną lub większą liczbą zmiennych objaśniających.
+ESTYMACJA|Szacowanie nieznanej wielkości w populacji na podstawie danych z próby.
+METAANALIZA|Ilościowe łączenie rezultatów wielu badań dotyczących określonego zagadnienia.
+MODERATOR EFEKTU|W analizie badań: czynnik, od którego zależy siła lub kierunek obserwowanej różnicy lub zależności.
+HETEROGENICZNOŚĆ|Zróżnicowanie wyników poszczególnych badań, ważne przy interpretowaniu średniego efektu.
+PRZEDZIAŁ UFNOŚCI|Zakres opisujący niepewność oszacowania zgodnie z przyjętą procedurą statystyczną.
+WIELKOŚĆ EFEKTU|Miara skali różnicy lub zależności, odrębna od samej istotności statystycznej.
+ISTOTNOŚĆ STATYSTYCZNA|Właściwość wyniku oceniana względem ustalonego progu w teście hipotezy zerowej.
+HIPOTEZA ZEROWA|Założenie testu, często mówiące o braku różnicy lub związku w populacji.
+ODCHYLENIE STANDARDOWE|Miara rozproszenia wyników wokół średniej, której angielski skrót to SD.
+PUNKT PROCENTOWY|Jednostka różnicy między dwoma odsetkami; wzrost z 40% do 41% wynosi jeden taki punkt.
+WSPÓŁCZYNNIK|Liczbowa wartość opisująca określoną cechę modelu lub zależności, na przykład nachylenie prostej regresji.
+NACHYLENIE|Parametr prostej regresji określający zmianę przewidywanego wyniku przy jednostkowej zmianie predyktora.
+PREDYKTOR|Zmienna użyta w modelu do przewidywania lub objaśniania wartości wyniku.
+ZWIĄZEK PRZYCZYNOWY|Relacja, w której zmiana jednego czynnika powoduje zmianę drugiego.
+UOGÓLNIANIE|Rozciąganie wniosków z badanej próby na szersze grupy lub inne warunki.
+TRAFNOŚĆ WEWNĘTRZNA|Stopień, w jakim projekt badania pozwala przypisać zaobserwowaną zmianę ocenianej interwencji.
+TRAFNOŚĆ ZEWNĘTRZNA|Stopień, w jakim wynik badania można odnosić do innych osób i warunków.
+WYNIK ZBIORCZY|Łączne oszacowanie otrzymane z połączenia rezultatów wielu badań.
+MODEL MIESZANY|Model statystyczny zawierający efekty stałe i losowe, użyty przez Boedekera i współautorów do porównania aktywnych i pasywnych sesji medycznych.
+KONTROLA STATYSTYCZNA|Uwzględnienie dodatkowych zmiennych w analizie, aby ograniczyć ich wpływ na ocenę związku.
+BRAK DANYCH|Sytuacja, w której dla części uczestników lub zmiennych nie uzyskano potrzebnego wyniku pomiaru.
+OGRANICZENIE BADANIA|Właściwość projektu lub danych zawężająca zakres uzasadnionych wniosków.
+@interaction|2, 3, 4, 5|opracowanie dydaktyczne|refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników
+NOTATKA|Krótki zapis własnych przemyśleń, wykonywany na przykład w indywidualnej fazie refleksji.
+ZAPIS|Utrwalona postać wypowiedzi lub odpowiedzi, pozwalająca wrócić do niej później.
+INTUICJA|Pierwsze rozpoznanie lub przekonanie pojawiające się bez świadomego prześledzenia wszystkich przesłanek.
+WERYFIKACJA|Sprawdzenie, czy odpowiedź lub twierdzenie znajduje potwierdzenie w danych i zasadach.
+REWIZJA|Ponowne rozpatrzenie własnego stanowiska prowadzące do jego zmiany lub doprecyzowania.
+LUKA W WIEDZY|Brak konkretnej informacji lub rozumienia ujawniony podczas samodzielnego odpowiadania.
+BŁĘDNE PRZEKONANIE|Utrwalony pogląd niezgodny z poprawnym wyjaśnieniem zjawiska, który może ujawnić pytanie koncepcyjne.
+FAŁSZYWA PEWNOŚĆ|Silne przekonanie o poprawności odpowiedzi mimo jej rzeczywistej błędności.
+POCZUCIE UCZENIA|Subiektywna ocena tego, ile dały zajęcia, odróżniana od wyniku testu przez Boedekera i współautorów.
+TEST WIEDZY|Zestaw zadań służących pomiarowi opanowania wiadomości i ich rozumienia.
+OCENIANIE KSZTAŁTUJĄCE|Wykorzystywanie informacji o postępach w trakcie nauki do kierowania dalszym uczeniem i nauczaniem.
+OCENIANIE SUMUJĄCE|Ocenianie podsumowujące osiągnięcia po zakończeniu określonego etapu kształcenia.
+OCENA WŁASNEJ PEWNOŚCI|Deklaracja studenta, jak mocno wierzy w poprawność właśnie udzielonej odpowiedzi.
+SAMODZIELNA ODPOWIEDŹ|Wybór dokonany przed rozmową z innymi studentami, ujawniający własne stanowisko.
+PONOWNE GŁOSOWANIE|Powtórne zebranie wyborów studentów po rozmowie lub wyjaśnieniu.
+ZMIANA ODPOWIEDZI|Wybranie innego wariantu niż wcześniej, które nie musi samo oznaczać poprawy rozumienia.
+UZASADNIONA ZMIANA|Korekta stanowiska oparta na rozważeniu przesłanek, a nie tylko na wyborze większości.
+MONITOROWANIE|Systematyczne obserwowanie postępów lub rozumienia podczas procesu uczenia się.
+PRZYGOTOWANIE|Wykonanie działań poprzedzających zajęcia, na przykład zapoznanie się z tekstem potrzebnym do dyskusji.
+WCZEŚNIEJSZE OSIĄGNIĘCIA|Wyniki uzyskane przed badanymi zajęciami, według których można porównywać podgrupy studentów.
+ZAANGAŻOWANIE POZNAWCZE|Wysiłek umysłowy wkładany w rozumienie, łączenie informacji i rozwiązywanie zadania.
+ZAANGAŻOWANIE EMOCJONALNE|Wymiar udziału obejmujący zainteresowanie, odczucia i poczucie przynależności.
+ZAANGAŻOWANIE BEHAWIORALNE|Wymiar udziału widoczny w zachowaniu, na przykład obecności lub odpowiadaniu na pytania.
+CZĘSTOŚĆ ODPOWIADANIA|To, jak często student udziela odpowiedzi; wskaźnik zachowania, który nie opisuje całego rozumienia.
+TRAFNOŚĆ ODPOWIEDZI|Stopień zgodności wyboru studenta z poprawnym rozwiązaniem zadania.
+SATYSFAKCJA|Zadowolenie z udziału w zajęciach, które należy odróżniać od wyniku sprawdzianu wiedzy.
+ZAINTERESOWANIE|Zaciekawienie treścią, sprzyjające podejmowaniu aktywności, ale niebędące samo pomiarem wiedzy.
+NASTAWIENIE|Względnie trwały stosunek studenta do zadania lub formy zajęć, wpływający na gotowość udziału.
+GOTOWOŚĆ|Stan przygotowania i skłonności do podjęcia działania, na przykład zabrania głosu.
+OCENA ODROCZONA|Ocena dokonana po przerwie od zajęć, pozwalająca porównać późniejsze odczucia z oceną bezpośrednią.
+@balance|1, 2, 3, 4, 5, 6|przykład praktyczny|opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu
+CZAS|Zasób, którego ograniczona ilość wymusza ustalenie długości wyjaśnienia, zadania i omówienia.
+PLAN|Z góry ustalony układ działań, który pomaga rozdzielić wykład i aktywności studentów.
+RYTM|Regularność przechodzenia między słuchaniem, samodzielną pracą i rozmową podczas zajęć.
+TEMPO|Szybkość realizowania kolejnych części zajęć, którą można zmienić po zebraniu odpowiedzi.
+PAUZA|Krótkie zatrzymanie wypowiedzi prowadzącego, dające studentom chwilę na przetworzenie informacji.
+BUFOR|Zapas czasu pozostawiony w planie na nieprzewidziane trudności lub dodatkowe wyjaśnienie.
+LIMIT|Ustalona górna granica czasu lub liczby wypowiedzi w danej aktywności.
+SYGNAŁ|Uzgodniony znak informujący, że kończy się rozmowa w parach i wraca wspólne omówienie.
+PRIORYTET|Element uznany za najważniejszy, któremu należy poświęcić czas mimo ograniczeń zajęć.
+HARMONOGRAM|Plan określający kolejność działań oraz czas ich rozpoczęcia lub trwania.
+PRZEJŚCIE|Moment zmiany formy pracy, na przykład z objaśnienia prowadzącego na dyskusję studentów.
+OMÓWIENIE|Wspólne przeanalizowanie odpowiedzi i ich przyczyn po wykonaniu zadania.
+PODSUMOWANIE|Końcowe zebranie najważniejszych ustaleń z zadania lub fragmentu zajęć.
+INTENSYWNOŚĆ|W ujęciu metaanalizy Xu i współautorów: zakres udziału aktywnego uczenia w czasie zajęć.
+PROPORCJA|Stosunek ilości czasu przeznaczonego na jedną formę pracy do czasu na inną.
+NAPRZEMIENNOŚĆ|Organizowanie zajęć tak, by różne formy pracy następowały kolejno jedna po drugiej.
+ELASTYCZNOŚĆ|Możliwość modyfikowania planu zajęć, gdy odpowiedzi studentów ujawniają trudności.
+SEGMENTACJA|Dzielenie treści lub przebiegu wykładu na mniejsze części możliwe do osobnego opracowania.
+ODWRÓCONA KLASA|Model, w którym wprowadzenie do treści odbywa się przed zajęciami, a wspólny czas służy pracy z nimi.
+PRACA GRUPOWA|Forma aktywności, w której kilka osób wspólnie wykonuje zadanie.
+ZAJĘCIA TYPU STUDIO|Format łączący elementy wykładu z pracą praktyczną lub laboratoryjną, wyróżniony w metaanalizie Xu i współautorów.
+KOMBINACJA METOD|Połączenie kilku sposobów aktywnego uczenia w jednym kursie lub scenariuszu zajęć.
+DOSTĘPNOŚĆ|Możliwość korzystania z aktywności także przez osoby o różnych potrzebach i ograniczeniach.
+BARIERA UDZIAŁU|Przeszkoda utrudniająca studentowi włączenie się w aktywność, na przykład brak urządzenia.
+ALTERNATYWA PAPIEROWA|Sposób udzielenia odpowiedzi na kartce, gdy student nie może skorzystać z narzędzia cyfrowego.
+PLAN AWARYJNY|Przygotowany wariant prowadzenia aktywności na wypadek niesprawności podstawowego narzędzia.
+JAWNE ZASADY|Reguły udziału i oceniania przedstawione studentom przed rozpoczęciem aktywności.
+PUNKTY ZA UDZIAŁ|Sposób premiowania samego odpowiadania, a nie wyłącznie trafnych wyborów.
+PONOWNE WYKORZYSTANIE|Zastosowanie istniejącego materiału na kolejnych zajęciach po sprawdzeniu jego przydatności.
+STOPNIOWE WDRAŻANIE|Wprowadzanie zmian dydaktycznych małymi krokami, umożliwiające ocenę wykonalności i korektę.

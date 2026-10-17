@@ -1,0 +1,1855 @@
+{
+  "description": "82 pytania uzupełniające dział o roli wykładu i projektowaniu wykładów.",
+  "note": "Pytania 601–682 są autorskim opracowaniem dydaktycznym pojęć. Nie należy ich odczytywać jako dodatkowych wyników badań. W stronie zestaw główny dobiera po 100 pytań z każdego działu; pozostałe pozycje można włączyć filtrem.",
+  "items": [
+    {
+      "id": 601,
+      "answer": "ORIENTACJAWTEMACIE",
+      "displayAnswer": "ORIENTACJA W TEMACIE",
+      "q": "Co zyskuje słuchacz, gdy na początku zajęć poznaje główne pytanie, zakres i kolejność zagadnień?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        10,
+        1,
+        7
+      ],
+      "wordBreaks": [
+        10,
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 602,
+      "answer": "WSPÓLNABAZAWIEDZY",
+      "displayAnswer": "WSPÓLNA BAZA WIEDZY",
+      "q": "Co może zapewnić całej grupie podobny zestaw podstawowych informacji przed seminarium?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        7,
+        4,
+        6
+      ],
+      "wordBreaks": [
+        7,
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 603,
+      "answer": "RAMAPOJĘCIOWA",
+      "displayAnswer": "RAMA POJĘCIOWA",
+      "q": "Jak nazwać układ podstawowych idei, który pomaga umieścić nowe informacje w znanym porządku?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 13,
+      "wordLengths": [
+        4,
+        9
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 604,
+      "answer": "MAPADYSCYPLINY",
+      "displayAnswer": "MAPA DYSCYPLINY",
+      "q": "Co może pokazać początkującym główne obszary danej dziedziny i ich powiązania?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 14,
+      "wordLengths": [
+        4,
+        10
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 605,
+      "answer": "OBRAZCAŁOŚCI",
+      "displayAnswer": "OBRAZ CAŁOŚCI",
+      "q": "Jaki efekt daje syntetyczne przedstawienie zagadnienia przed omówieniem jego szczegółów?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 12,
+      "wordLengths": [
+        5,
+        7
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 606,
+      "answer": "WIEDZAWSTĘPNA",
+      "displayAnswer": "WIEDZA WSTĘPNA",
+      "q": "Jak nazywamy to, co student powinien już znać, aby powiązać z tym nowy materiał?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 13,
+      "wordLengths": [
+        6,
+        7
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 607,
+      "answer": "PUNKTWYJŚCIA",
+      "displayAnswer": "PUNKT WYJŚCIA",
+      "q": "Jaką funkcję pełni wspólne omówienie podstaw przed rozpoczęciem samodzielnej pracy?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 12,
+      "wordLengths": [
+        5,
+        7
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 608,
+      "answer": "WPROWADZENIEDOKURSU",
+      "displayAnswer": "WPROWADZENIE DO KURSU",
+      "q": "Jaki etap zajęć przedstawia cele, zakres i logikę całego przedmiotu?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 19,
+      "wordLengths": [
+        12,
+        2,
+        5
+      ],
+      "wordBreaks": [
+        12,
+        14
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 609,
+      "answer": "WPROWADZENIEDOTEMATU",
+      "displayAnswer": "WPROWADZENIE DO TEMATU",
+      "q": "Jak nazwać krótkie przedstawienie zagadnienia, zanim przejdzie się do szczegółowych argumentów?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 20,
+      "wordLengths": [
+        12,
+        2,
+        6
+      ],
+      "wordBreaks": [
+        12,
+        14
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 610,
+      "answer": "PRZEGLĄDDZIEDZINY",
+      "displayAnswer": "PRZEGLĄD DZIEDZINY",
+      "q": "Jak nazywa się szerokie omówienie najważniejszych podejść w danej dyscyplinie?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        8,
+        9
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 611,
+      "answer": "HIERARCHIATREŚCI",
+      "displayAnswer": "HIERARCHIA TREŚCI",
+      "q": "Co pomaga odróżnić pojęcia nadrzędne od szczegółów w dużym zbiorze informacji?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 16,
+      "wordLengths": [
+        10,
+        6
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 612,
+      "answer": "PORZĄDEKPOJĘĆ",
+      "displayAnswer": "PORZĄDEK POJĘĆ",
+      "q": "Jaki układ przedstawienia ułatwia dostrzeżenie zależności między terminami?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 13,
+      "wordLengths": [
+        8,
+        5
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 613,
+      "answer": "LOGIKAWYWODU",
+      "displayAnswer": "LOGIKA WYWODU",
+      "q": "Co pozwala śledzić, w jaki sposób przesłanki prowadzą do konkluzji?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 12,
+      "wordLengths": [
+        6,
+        6
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 614,
+      "answer": "GŁÓWNATEZA",
+      "displayAnswer": "GŁÓWNA TEZA",
+      "q": "Jak nazywa się najważniejsze twierdzenie, którego wykładowca broni argumentami?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 10,
+      "wordLengths": [
+        6,
+        4
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 615,
+      "answer": "PYTANIEBADAWCZE",
+      "displayAnswer": "PYTANIE BADAWCZE",
+      "q": "Co wyznacza problem, na który badanie naukowe ma dostarczyć odpowiedzi?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 15,
+      "wordLengths": [
+        7,
+        8
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 616,
+      "answer": "ARGUMENTACJA",
+      "displayAnswer": "ARGUMENTACJA",
+      "q": "Jak nazywa się uzasadnianie twierdzenia za pomocą przesłanek i przykładów?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 617,
+      "answer": "DOWÓDEMPIRYCZNY",
+      "displayAnswer": "DOWÓD EMPIRYCZNY",
+      "q": "Na czym może oprzeć się twierdzenie, gdy wynika z obserwacji lub pomiaru?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 15,
+      "wordLengths": [
+        5,
+        10
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 618,
+      "answer": "WYJĄTEKODREGUŁY",
+      "displayAnswer": "WYJĄTEK OD REGUŁY",
+      "q": "Jaki przypadek pokazuje, że ogólna reguła nie działa w każdym przypadku?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 15,
+      "wordLengths": [
+        7,
+        2,
+        6
+      ],
+      "wordBreaks": [
+        7,
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 619,
+      "answer": "ROZRÓŻNIENIEPOJĘĆ",
+      "displayAnswer": "ROZRÓŻNIENIE POJĘĆ",
+      "q": "Co powinien wyjaśnić wykład, gdy dwa podobnie brzmiące terminy są mylone?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        12,
+        5
+      ],
+      "wordBreaks": [
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 620,
+      "answer": "PRZYCZYNAISKUTEK",
+      "displayAnswer": "PRZYCZYNA I SKUTEK",
+      "q": "Jaką relację pokazuje analiza, która wyjaśnia, co prowadzi do danego rezultatu?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 16,
+      "wordLengths": [
+        9,
+        1,
+        6
+      ],
+      "wordBreaks": [
+        9,
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 621,
+      "answer": "RELACJAPRZYCZYNASKUTEK",
+      "displayAnswer": "RELACJA PRZYCZYNA SKUTEK",
+      "q": "Jak nazwać sytuację, w której zmiana jednego czynnika wywołuje przewidywalną zmianę innego?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 22,
+      "wordLengths": [
+        7,
+        9,
+        6
+      ],
+      "wordBreaks": [
+        7,
+        16
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 622,
+      "answer": "MODELPOJĘCIOWY",
+      "displayAnswer": "MODEL POJĘCIOWY",
+      "q": "Jaki uproszczony układ idei porządkuje abstrakcyjne zjawisko?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 14,
+      "wordLengths": [
+        5,
+        9
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 623,
+      "answer": "MODELTEORETYCZNY",
+      "displayAnswer": "MODEL TEORETYCZNY",
+      "q": "Jak nazwać konstrukcję opartą na teorii, która wyjaśnia mechanizm badanego zjawiska?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 16,
+      "wordLengths": [
+        5,
+        11
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 624,
+      "answer": "MODELEKSPERCKI",
+      "displayAnswer": "MODEL EKSPERCKI",
+      "q": "Co student może obserwować, gdy prowadzący na głos pokazuje własny tok rozwiązywania problemu?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 14,
+      "wordLengths": [
+        5,
+        9
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 625,
+      "answer": "TOKROZUMOWANIA",
+      "displayAnswer": "TOK ROZUMOWANIA",
+      "q": "Co prowadzący może ujawnić, opisując kolejno, jak doszedł do odpowiedzi?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 14,
+      "wordLengths": [
+        3,
+        11
+      ],
+      "wordBreaks": [
+        3
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 626,
+      "answer": "ROZUMOWANIEEKSPERCKIE",
+      "displayAnswer": "ROZUMOWANIE EKSPERCKIE",
+      "q": "Jaki proces myślowy specjalisty można przedstawić na przykładzie rozwiązania zadania?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 21,
+      "wordLengths": [
+        11,
+        10
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 627,
+      "answer": "ANALIZADANYCH",
+      "displayAnswer": "ANALIZA DANYCH",
+      "q": "Jaka czynność polega na sprawdzaniu wzorów i znaczeń w zebranych wynikach?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 13,
+      "wordLengths": [
+        7,
+        6
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 628,
+      "answer": "INTERPRETACJAWYNIKÓW",
+      "displayAnswer": "INTERPRETACJA WYNIKÓW",
+      "q": "Jak nazywa się wyjaśnienie, co oznaczają uzyskane liczby lub obserwacje?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 20,
+      "wordLengths": [
+        13,
+        7
+      ],
+      "wordBreaks": [
+        13
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 629,
+      "answer": "DEMONSTRACJAPROCEDURY",
+      "displayAnswer": "DEMONSTRACJA PROCEDURY",
+      "q": "Co pozwala studentom zobaczyć kolejność poprawnego wykonania działania?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 21,
+      "wordLengths": [
+        12,
+        9
+      ],
+      "wordBreaks": [
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 630,
+      "answer": "OBJAŚNIENIEMECHANIZMU",
+      "displayAnswer": "OBJAŚNIENIE MECHANIZMU",
+      "q": "Jak nazywa się pokazanie, w jaki sposób i dlaczego zachodzi proces?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 21,
+      "wordLengths": [
+        11,
+        10
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 631,
+      "answer": "WYJAŚNIENIEZALEŻNOŚCI",
+      "displayAnswer": "WYJAŚNIENIE ZALEŻNOŚCI",
+      "q": "Co pomaga zrozumieć, jak dwa lub więcej elementów wpływa na siebie?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 21,
+      "wordLengths": [
+        11,
+        10
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 632,
+      "answer": "KROKPOKROKU",
+      "displayAnswer": "KROK PO KROKU",
+      "q": "Jak można nazwać uporządkowane przechodzenie przez etapy złożonej czynności?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 11,
+      "wordLengths": [
+        4,
+        2,
+        5
+      ],
+      "wordBreaks": [
+        4,
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 633,
+      "answer": "PRZYKŁADKANONICZNY",
+      "displayAnswer": "PRZYKŁAD KANONICZNY",
+      "q": "Jaki typ przykładu prezentuje typowy przypadek dobrze ilustrujący regułę?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        8,
+        10
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 634,
+      "answer": "PRZYPADEKGRANICZNY",
+      "displayAnswer": "PRZYPADEK GRANICZNY",
+      "q": "Jaki przypadek testuje, gdzie kończy się stosowalność danego pojęcia?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        9,
+        9
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 635,
+      "answer": "ANALOGIAPOJĘCIOWA",
+      "displayAnswer": "ANALOGIA POJĘCIOWA",
+      "q": "Jak nazwać wyjaśnienie abstrakcyjnej idei przez porównanie z bardziej znaną?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        8,
+        9
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 636,
+      "answer": "OBRAZOWAMETAFORA",
+      "displayAnswer": "OBRAZOWA METAFORA",
+      "q": "Jak nazywa się przenośne porównanie ułatwiające wyobrażenie trudnego procesu?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 16,
+      "wordLengths": [
+        8,
+        8
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 637,
+      "answer": "HISTORIAODKRYCIA",
+      "displayAnswer": "HISTORIA ODKRYCIA",
+      "q": "Jaką opowieść można wykorzystać, by pokazać, w jakich okolicznościach powstała koncepcja?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 16,
+      "wordLengths": [
+        8,
+        8
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 638,
+      "answer": "GENEZATEORII",
+      "displayAnswer": "GENEZA TEORII",
+      "q": "Co opisuje, jak rozwijała się dana idea od pierwszych obserwacji do obecnej postaci?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 12,
+      "wordLengths": [
+        6,
+        6
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 639,
+      "answer": "KONTEKSTHISTORYCZNY",
+      "displayAnswer": "KONTEKST HISTORYCZNY",
+      "q": "Co pozwala umieścić koncepcję w czasie i w realiach jej powstania?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 19,
+      "wordLengths": [
+        8,
+        11
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 640,
+      "answer": "SPÓRNAUKOWY",
+      "displayAnswer": "SPÓR NAUKOWY",
+      "q": "Jak nazywamy różnicę stanowisk badaczy dotyczącą interpretacji zjawiska?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 11,
+      "wordLengths": [
+        4,
+        7
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 641,
+      "answer": "ROZWÓJDYSCYPLINY",
+      "displayAnswer": "ROZWÓJ DYSCYPLINY",
+      "q": "Jaki długofalowy proces można pokazać, śledząc kolejne zmiany w sposobie badania tematu?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 16,
+      "wordLengths": [
+        6,
+        10
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 642,
+      "answer": "AKTUALNYSTANWIEDZY",
+      "displayAnswer": "AKTUALNY STAN WIEDZY",
+      "q": "Co należy przedstawić, aby słuchacze poznali obecne ustalenia zamiast dawnych założeń?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        8,
+        4,
+        6
+      ],
+      "wordBreaks": [
+        8,
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 643,
+      "answer": "PUNKTODNIESIENIA",
+      "displayAnswer": "PUNKT ODNIESIENIA",
+      "q": "Co pozwala porównać nowe twierdzenie z wcześniej omówionym standardem?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 16,
+      "wordLengths": [
+        5,
+        11
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 644,
+      "answer": "WSPÓLNYJĘZYK",
+      "displayAnswer": "WSPÓLNY JĘZYK",
+      "q": "Co zyskuje grupa, gdy wszyscy poznają te same znaczenia kluczowych terminów?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 12,
+      "wordLengths": [
+        7,
+        5
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 645,
+      "answer": "WSPÓLNYZASÓBPOJĘĆ",
+      "displayAnswer": "WSPÓLNY ZASÓB POJĘĆ",
+      "q": "Jak nazywamy podstawowe terminy, do których mogą odwoływać się uczestnicy dalszej dyskusji?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        7,
+        5,
+        5
+      ],
+      "wordBreaks": [
+        7,
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 646,
+      "answer": "CIĄGŁOŚĆKURSU",
+      "displayAnswer": "CIĄGŁOŚĆ KURSU",
+      "q": "Co zachowuje powiązanie między kolejnymi spotkaniami i omawianymi zagadnieniami?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 13,
+      "wordLengths": [
+        8,
+        5
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 647,
+      "answer": "SPÓJNOŚĆPROGRAMU",
+      "displayAnswer": "SPÓJNOŚĆ PROGRAMU",
+      "q": "Jaki element sprawia, że tematy i aktywności w przedmiocie wspierają te same cele?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 16,
+      "wordLengths": [
+        8,
+        8
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 648,
+      "answer": "PRZYGOTOWANIEDOSEMINARIUM",
+      "displayAnswer": "PRZYGOTOWANIE DO SEMINARIUM",
+      "q": "Jaką funkcję może pełnić wykład przed zajęciami wymagającymi dyskusji i pracy w grupach?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 25,
+      "wordLengths": [
+        13,
+        2,
+        10
+      ],
+      "wordBreaks": [
+        13,
+        15
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 649,
+      "answer": "WSTĘPDOLABORATORIUM",
+      "displayAnswer": "WSTĘP DO LABORATORIUM",
+      "q": "Co może dać omówienie zasad i mechanizmów przed praktycznym wykonaniem procedury?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 19,
+      "wordLengths": [
+        5,
+        2,
+        12
+      ],
+      "wordBreaks": [
+        5,
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 650,
+      "answer": "PODSTAWADALSZEJNAUKI",
+      "displayAnswer": "PODSTAWA DALSZEJ NAUKI",
+      "q": "Jaką rolę pełni uporządkowane wprowadzenie przed samodzielnym pogłębianiem materiału?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 20,
+      "wordLengths": [
+        8,
+        7,
+        5
+      ],
+      "wordBreaks": [
+        8,
+        15
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 651,
+      "answer": "POMOSTDOZADAŃ",
+      "displayAnswer": "POMOST DO ZADAŃ",
+      "q": "Co łączy omówienie teorii z późniejszym zastosowaniem jej w ćwiczeniach?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 13,
+      "wordLengths": [
+        6,
+        2,
+        5
+      ],
+      "wordBreaks": [
+        6,
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 652,
+      "answer": "TRANSFERNANOWYPROBLEM",
+      "displayAnswer": "TRANSFER NA NOWY PROBLEM",
+      "q": "Jak nazywamy wykorzystanie poznanej zasady w niećwiczonym wcześniej przypadku?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 21,
+      "wordLengths": [
+        8,
+        2,
+        4,
+        7
+      ],
+      "wordBreaks": [
+        8,
+        10,
+        14
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 653,
+      "answer": "ZASTOSOWANIEKONCEPCJI",
+      "displayAnswer": "ZASTOSOWANIE KONCEPCJI",
+      "q": "Co robi student, gdy wykorzystuje abstrakcyjną ideę do rozwiązania konkretnej sytuacji?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 21,
+      "wordLengths": [
+        12,
+        9
+      ],
+      "wordBreaks": [
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 654,
+      "answer": "ŁĄCZENIEWĄTKÓW",
+      "displayAnswer": "ŁĄCZENIE WĄTKÓW",
+      "q": "Jaka czynność pokazuje, jak zagadnienia omawiane w różnych częściach kursu się uzupełniają?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 14,
+      "wordLengths": [
+        8,
+        6
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 655,
+      "answer": "INTEGRACJAPOJĘĆ",
+      "displayAnswer": "INTEGRACJA POJĘĆ",
+      "q": "Co student robi, gdy łączy nowe idee w spójne rozumienie tematu?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 15,
+      "wordLengths": [
+        10,
+        5
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 656,
+      "answer": "SYNTEZASEMESTRALNA",
+      "displayAnswer": "SYNTEZA SEMESTRALNA",
+      "q": "Jak nazwać zebranie głównych ustaleń z wielu spotkań w jedną całość?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        7,
+        11
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 657,
+      "answer": "KONSOLIDACJATREŚCI",
+      "displayAnswer": "KONSOLIDACJA TREŚCI",
+      "q": "Jaki proces porządkuje i wzmacnia to, co zostało omówione podczas kilku zajęć?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        12,
+        6
+      ],
+      "wordBreaks": [
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 658,
+      "answer": "PRZYWOŁANIEWIEDZY",
+      "displayAnswer": "PRZYWOŁANIE WIEDZY",
+      "q": "Jak nazywa się wydobycie z pamięci informacji poznanych wcześniej?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        11,
+        6
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 659,
+      "answer": "ZROZUMIENIEKONCEPCYJNE",
+      "displayAnswer": "ZROZUMIENIE KONCEPCYJNE",
+      "q": "Co ujawnia student, gdy potrafi wyjaśnić zasadę, a nie tylko odtworzyć jej nazwę?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 22,
+      "wordLengths": [
+        11,
+        11
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 660,
+      "answer": "ROZUMIENIEGŁĘBOKIE",
+      "displayAnswer": "ROZUMIENIE GŁĘBOKIE",
+      "q": "Jaki rodzaj opanowania pozwala wyjaśnić zależności i uzasadnić odpowiedź?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        10,
+        8
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 661,
+      "answer": "WIEDZADEKLARATYWNA",
+      "displayAnswer": "WIEDZA DEKLARATYWNA",
+      "q": "Jak nazywa się wiedza o faktach, definicjach i zasadach?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        6,
+        12
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 662,
+      "answer": "WIEDZAPROCEDURALNA",
+      "displayAnswer": "WIEDZA PROCEDURALNA",
+      "q": "Jak nazywa się wiedza o tym, jak wykonać daną czynność?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        6,
+        12
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 663,
+      "answer": "GOTOWOŚĆDOZASTOSOWANIA",
+      "displayAnswer": "GOTOWOŚĆ DO ZASTOSOWANIA",
+      "q": "Co jest potrzebne, by po objaśnieniu student mógł sam rozwiązać zadanie?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 22,
+      "wordLengths": [
+        8,
+        2,
+        12
+      ],
+      "wordBreaks": [
+        8,
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 664,
+      "answer": "SAMODZIELNEMYŚLENIE",
+      "displayAnswer": "SAMODZIELNE MYŚLENIE",
+      "q": "Jaki rezultat wspiera pytanie, które wymaga własnego uzasadnienia, a nie kopiowania notatki?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 19,
+      "wordLengths": [
+        11,
+        8
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 665,
+      "answer": "AUTONOMIASTUDENTA",
+      "displayAnswer": "AUTONOMIA STUDENTA",
+      "q": "Jak nazwać zdolność do kierowania własnym uczeniem i wyborami?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        9,
+        8
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 666,
+      "answer": "KONTAKTZEKSPERTEM",
+      "displayAnswer": "KONTAKT Z EKSPERTEM",
+      "q": "Co może dać wykład, gdy umożliwia studentom bezpośredni kontakt z wiedzą i sposobem myślenia specjalisty?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        7,
+        1,
+        9
+      ],
+      "wordBreaks": [
+        7,
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 667,
+      "answer": "DOSTĘPDOEKSPERTYZY",
+      "displayAnswer": "DOSTĘP DO EKSPERTYZY",
+      "q": "Co uzyskuje liczna grupa, gdy jeden specjalista objaśnia zaawansowany temat wielu osobom?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 18,
+      "wordLengths": [
+        6,
+        2,
+        10
+      ],
+      "wordBreaks": [
+        6,
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 668,
+      "answer": "DOSTĘPDODOROBKU",
+      "displayAnswer": "DOSTĘP DO DOROBKU",
+      "q": "Jakiego zasobu może dostarczyć wykład, gdy syntetyzuje ważne publikacje dla całej grupy?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 15,
+      "wordLengths": [
+        6,
+        2,
+        7
+      ],
+      "wordBreaks": [
+        6,
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 669,
+      "answer": "ORIENTACJAWLITERATURZE",
+      "displayAnswer": "ORIENTACJA W LITERATURZE",
+      "q": "Co student zyskuje, gdy prowadzący porządkuje kluczowe publikacje i przedstawione w nich stanowiska?",
+      "refs": "1, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 22,
+      "wordLengths": [
+        10,
+        1,
+        11
+      ],
+      "wordBreaks": [
+        10,
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie dydaktyczne funkcji wykładu; kontekst artykułów 1 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 670,
+      "answer": "SEKWENCJATREŚCI",
+      "displayAnswer": "SEKWENCJA TREŚCI",
+      "q": "Jak nazywa się zaplanowana kolejność, w której zagadnienia prowadzą od podstaw do wniosków?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 15,
+      "wordLengths": [
+        9,
+        6
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 671,
+      "answer": "HIERARCHIAWIZUALNA",
+      "displayAnswer": "HIERARCHIA WIZUALNA",
+      "q": "Co pomaga szybko zauważyć na slajdzie, które elementy są najważniejsze?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 18,
+      "wordLengths": [
+        10,
+        8
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 672,
+      "answer": "JEDNAMYŚLNASLAJD",
+      "displayAnswer": "JEDNA MYŚL NA SLAJD",
+      "q": "Jaką zasadę można przyjąć, by ograniczyć konkurencję wielu komunikatów na ekranie?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 16,
+      "wordLengths": [
+        5,
+        4,
+        2,
+        5
+      ],
+      "wordBreaks": [
+        5,
+        9,
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 673,
+      "answer": "ETAPOWANIESCHEMATU",
+      "displayAnswer": "ETAPOWANIE SCHEMATU",
+      "q": "Jak nazwać pokazywanie kolejnych części diagramu w miarę wyjaśniania procesu?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 18,
+      "wordLengths": [
+        10,
+        8
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 674,
+      "answer": "ANIMACJAETAPOWA",
+      "displayAnswer": "ANIMACJA ETAPOWA",
+      "q": "Jaką formę obrazu można wykorzystać, gdy proces zmienia się w czasie i ważna jest kolejność?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 15,
+      "wordLengths": [
+        8,
+        7
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 675,
+      "answer": "NARRACJADOOBRAZU",
+      "displayAnswer": "NARRACJA DO OBRAZU",
+      "q": "Co pomaga studentowi śledzić sens rysunku, gdy prowadzący odsłania kolejne jego części?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 16,
+      "wordLengths": [
+        8,
+        2,
+        6
+      ],
+      "wordBreaks": [
+        8,
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 676,
+      "answer": "ZASADABLISKOŚCI",
+      "displayAnswer": "ZASADA BLISKOŚCI",
+      "q": "Jaka reguła układu slajdu zaleca umieszczanie podpisu przy elemencie, którego dotyczy?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 15,
+      "wordLengths": [
+        6,
+        9
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 677,
+      "answer": "ZASADASPÓJNOŚCI",
+      "displayAnswer": "ZASADA SPÓJNOŚCI",
+      "q": "Jaka reguła projektowania usuwa z obrazu elementy, które nie wspierają wyjaśnienia?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 15,
+      "wordLengths": [
+        6,
+        9
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 678,
+      "answer": "SYGNAŁWIZUALNY",
+      "displayAnswer": "SYGNAŁ WIZUALNY",
+      "q": "Jak nazwać wyróżnienie, które wskazuje, gdzie student powinien skierować wzrok?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 14,
+      "wordLengths": [
+        6,
+        8
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 679,
+      "answer": "KOTWICAWZROKOWA",
+      "displayAnswer": "KOTWICA WZROKOWA",
+      "q": "Co pomaga utrzymać uwagę na właściwym fragmencie złożonego obrazu?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 15,
+      "wordLengths": [
+        7,
+        8
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 680,
+      "answer": "RYTMSLAJDÓW",
+      "displayAnswer": "RYTM SLAJDÓW",
+      "q": "Jak można nazwać tempo zmian materiałów wizualnych dopasowane do toku objaśniania?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 11,
+      "wordLengths": [
+        4,
+        7
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 681,
+      "answer": "ZAPOWIEDŹSTRUKTURY",
+      "displayAnswer": "ZAPOWIEDŹ STRUKTURY",
+      "q": "Co warto pokazać na początku prezentacji, aby słuchacze wiedzieli, dokąd zmierza wykład?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 18,
+      "wordLengths": [
+        9,
+        9
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    },
+    {
+      "id": 682,
+      "answer": "OPISOSI",
+      "displayAnswer": "OPIS OSI",
+      "q": "Co powinien zawierać wykres, aby można było odczytać prezentowane zmienne i ich jednostki?",
+      "refs": "2, 6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 7,
+      "wordLengths": [
+        4,
+        3
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "projektowanie materiałów i objaśnień; kontekst artykułów 2 i 6",
+      "basis": "Autorskie pojęcie pomocnicze. To opracowanie dydaktyczne, a nie odrębny wynik badania.",
+      "balancedCore": true
+    }
+  ]
+}

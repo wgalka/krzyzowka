@@ -1,0 +1,57 @@
+{
+  "newEntries": 300,
+  "totalEntries": 600,
+  "duplicateNewAnswers": 0,
+  "collisionsWithOldAnswers": 0,
+  "duplicateNewQuestions": 0,
+  "collisionsWithOldQuestions": 0,
+  "lengthMin": 2,
+  "lengthMax": 25,
+  "lengthDistribution": {
+    "2": 3,
+    "3": 11,
+    "4": 11,
+    "5": 17,
+    "6": 18,
+    "7": 20,
+    "8": 16,
+    "9": 33,
+    "10": 26,
+    "11": 20,
+    "12": 19,
+    "13": 17,
+    "14": 17,
+    "15": 14,
+    "16": 9,
+    "17": 10,
+    "18": 12,
+    "19": 5,
+    "20": 10,
+    "21": 5,
+    "22": 3,
+    "23": 2,
+    "24": 1,
+    "25": 1
+  },
+  "lengthGroups": {
+    "2–5": 42,
+    "6–9": 87,
+    "10–14": 99,
+    "15–19": 50,
+    "20–25": 22
+  },
+  "topics": {
+    "interaction": 120,
+    "design": 60,
+    "role": 30,
+    "balance": 90
+  },
+  "difficulty": {
+    "easy": 45,
+    "medium": 229,
+    "hard": 26
+  },
+  "original300Preserved": true,
+  "questionSourceMarkers": 0,
+  "contentReview": "Przegląd redakcyjny definicji, terminologii i odróżnienia propozycji praktycznych od wyników badań. Kontrole automatyczne nie dowodzą trafności naukowej."
+}

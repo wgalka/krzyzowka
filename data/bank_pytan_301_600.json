@@ -1,0 +1,5745 @@
+{
+  "description": "300 nowych par pytanie–odpowiedź do krzyżówki o wykładzie i nauczaniu w dużych grupach.",
+  "note": "Definicje i przykłady dydaktyczne są autorskim opracowaniem w kontekście sześciu prac, nie zbiorem 300 nowych wyników badań. Długość oznacza liczbę liter bez spacji i łączników. Polskie znaki zajmują po jednym polu.",
+  "sources": [
+    {
+      "text": "[1] Xu S. i in. (2026). The Impact of Active Learning on Student Course Performance in STEM Varies by Type and Intensity: A Meta-Analysis. Education Sciences, 16(7), 1044.",
+      "url": "https://doi.org/10.3390/educsci16071044"
+    },
+    {
+      "text": "[2] Krumsvik R. J., Slettvoll V. (2026). Beyond the clicker: rethinking student response systems as pedagogical infrastructure for healthcare professions education. Frontiers in Medicine, 13, 1967058.",
+      "url": "https://doi.org/10.3389/fmed.2026.1967058"
+    },
+    {
+      "text": "[3] Höbaus C., Schmidmaier R. (2026; online 2025). Individual and group reflection in lecture-based large groups lead to comparable learning success. Wiener Klinische Wochenschrift, 138, 179-185.",
+      "url": "https://doi.org/10.1007/s00508-025-02610-x"
+    },
+    {
+      "text": "[4] Hornbuckle B. K. i in. (2025). All Students Can Benefit from a Personal Response System Pedagogy that Encourages Active Engagement Yet Lowers Barriers to Implementation. Journal of Science Education and Technology, 34, 160-170.",
+      "url": "https://doi.org/10.1007/s10956-024-10163-3"
+    },
+    {
+      "text": "[5] Boedeker P. i in. (2025). Active Versus Passive Learning in Large-Group Sessions in Medical School: A Randomized Cross-Over Trial Investigating Effects on Learning and the Feeling of Learning. Medical Science Educator, 35, 459-467.",
+      "url": "https://doi.org/10.1007/s40670-024-02219-1"
+    },
+    {
+      "text": "[6] Cork S. C., Yhnell E. (2024). Reviving the lecture: using visually dynamic approaches to teach physiological concepts. Discover Education, 3, 20.",
+      "url": "https://doi.org/10.1007/s44217-024-00099-6"
+    }
+  ],
+  "items": [
+    {
+      "id": 301,
+      "answer": "CEL",
+      "displayAnswer": "CEL",
+      "q": "Zamierzony efekt aktywności, odpowiadający na pytanie: po co studenci mają ją wykonać?",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 302,
+      "answer": "WIEDZA",
+      "displayAnswer": "WIEDZA",
+      "q": "Zasób wiadomości i rozumienia, z którego student korzysta podczas rozwiązywania przypadku.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 303,
+      "answer": "PAMIĘĆ",
+      "displayAnswer": "PAMIĘĆ",
+      "q": "Zdolność przechowywania i odtwarzania informacji, potrzebna przy odpowiadaniu bez notatek.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 304,
+      "answer": "ANALIZA",
+      "displayAnswer": "ANALIZA",
+      "q": "Rozłożenie przypadku na elementy i zbadanie ich powiązań przed wyborem rozwiązania.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 305,
+      "answer": "ARGUMENT",
+      "displayAnswer": "ARGUMENT",
+      "q": "Racja przytoczona przez studenta na poparcie wybranej odpowiedzi.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 306,
+      "answer": "DOWÓD",
+      "displayAnswer": "DOWÓD",
+      "q": "Dane lub obserwacja stanowiące podstawę uznania twierdzenia za uzasadnione.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 307,
+      "answer": "WNIOSEK",
+      "displayAnswer": "WNIOSEK",
+      "q": "Stwierdzenie wyprowadzone z przesłanek po omówieniu problemu.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 308,
+      "answer": "DIALOG",
+      "displayAnswer": "DIALOG",
+      "q": "Rozmowa, w której uczestnicy odnoszą się do wypowiedzi drugiej strony.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 309,
+      "answer": "NAMYSŁ",
+      "displayAnswer": "NAMYSŁ",
+      "q": "Spokojne rozważenie pytania przed udzieleniem odpowiedzi; inaczej zastanowienie.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 310,
+      "answer": "BŁĄD",
+      "displayAnswer": "BŁĄD",
+      "q": "Odpowiedź lub krok rozumowania niezgodny z przyjętym kryterium poprawności.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 311,
+      "answer": "PEWNOŚĆ",
+      "displayAnswer": "PEWNOŚĆ",
+      "q": "Deklarowany stopień przekonania studenta, że jego odpowiedź jest poprawna.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 312,
+      "answer": "DIAGNOZA",
+      "displayAnswer": "DIAGNOZA",
+      "q": "Rozpoznanie trudności studentów na podstawie ich odpowiedzi; w dydaktyce nie oznacza rozpoznania choroby.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 313,
+      "answer": "TRANSFER",
+      "displayAnswer": "TRANSFER",
+      "q": "Wykorzystanie poznanej zasady w nowej sytuacji, innej niż ćwiczony przykład.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 314,
+      "answer": "INTEGRACJA",
+      "displayAnswer": "INTEGRACJA",
+      "q": "Łączenie nowej informacji z wcześniejszą wiedzą w spójną całość.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 315,
+      "answer": "PORÓWNANIE",
+      "displayAnswer": "PORÓWNANIE",
+      "q": "Zestawienie dwóch uzasadnień w celu wskazania podobieństw i różnic.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 316,
+      "answer": "ZASTOSOWANIE",
+      "displayAnswer": "ZASTOSOWANIE",
+      "q": "Użycie poznanego pojęcia lub reguły do rozwiązania konkretnego zadania.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 317,
+      "answer": "PRZYPOMINANIE",
+      "displayAnswer": "PRZYPOMINANIE",
+      "q": "Wydobywanie informacji z pamięci zamiast ponownego odczytywania ich z materiału.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 318,
+      "answer": "UZASADNIENIE",
+      "displayAnswer": "UZASADNIENIE",
+      "q": "Wyjaśnienie, dlaczego wybrano odpowiedź, zawierające przesłanki tego wyboru.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 319,
+      "answer": "SAMOKONTROLA",
+      "displayAnswer": "SAMOKONTROLA",
+      "q": "Sprawdzanie własnych odpowiedzi i korygowanie zauważonych błędów.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 320,
+      "answer": "METAPOZNANIE",
+      "displayAnswer": "METAPOZNANIE",
+      "q": "Wiedza o własnym poznawaniu i świadome monitorowanie tego, jak się uczymy.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 321,
+      "answer": "SAMOOCENA",
+      "displayAnswer": "SAMOOCENA",
+      "q": "Własna ocena poziomu wiedzy, którą warto zestawić z wynikiem zadania.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 322,
+      "answer": "SAMOREGULACJA",
+      "displayAnswer": "SAMOREGULACJA",
+      "q": "Samodzielne wyznaczanie celów uczenia, monitorowanie postępów i zmienianie sposobu pracy.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 323,
+      "answer": "KALIBRACJA",
+      "displayAnswer": "KALIBRACJA",
+      "q": "Dopasowanie deklarowanej pewności do rzeczywistej trafności własnych odpowiedzi.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 324,
+      "answer": "NIEPEWNOŚĆ",
+      "displayAnswer": "NIEPEWNOŚĆ",
+      "q": "Stan, w którym student nie ma dostatecznych podstaw, by zdecydowanie uznać wybór za trafny.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 325,
+      "answer": "WYJAŚNIENIE",
+      "displayAnswer": "WYJAŚNIENIE",
+      "q": "Przedstawienie, jak lub dlaczego zachodzi omawiane zjawisko.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 326,
+      "answer": "PRZEWIDYWANIE",
+      "displayAnswer": "PRZEWIDYWANIE",
+      "q": "Wskazanie oczekiwanego wyniku procesu, zanim zostanie pokazany jego dalszy przebieg.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 327,
+      "answer": "KOREKTA",
+      "displayAnswer": "KOREKTA",
+      "q": "Poprawienie błędnego fragmentu odpowiedzi po otrzymaniu informacji zwrotnej.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 328,
+      "answer": "PRZEKONANIE",
+      "displayAnswer": "PRZEKONANIE",
+      "q": "Pogląd uznawany przez studenta za prawdziwy, który może wymagać konfrontacji z dowodami.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 329,
+      "answer": "ZROZUMIENIE",
+      "displayAnswer": "ZROZUMIENIE",
+      "q": "Uchwycenie znaczenia i relacji między pojęciami, pozwalające wyjaśnić je własnymi słowami.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 330,
+      "answer": "KRYTYCYZM",
+      "displayAnswer": "KRYTYCYZM",
+      "q": "Postawa sprawdzania podstaw twierdzenia przed jego przyjęciem, także gdy podaje je aplikacja.",
+      "refs": "2",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 3–6: mechanizmy uczenia wspieranego przez SRS",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 331,
+      "answer": "SRS",
+      "displayAnswer": "SRS",
+      "q": "Angielski skrót Student Response System, oznaczający system zbierania odpowiedzi studentów.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 332,
+      "answer": "PRS",
+      "displayAnswer": "PRS",
+      "q": "Angielski skrót Personal Response System używany przez Hornbuckle’a i współautorów w pracy o aktywności na kursie STEM.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 333,
+      "answer": "ARS",
+      "displayAnswer": "ARS",
+      "q": "Angielski skrót Audience Response System, czyli systemu odpowiedzi audytorium.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 334,
+      "answer": "AI",
+      "displayAnswer": "AI",
+      "q": "Dwuliterowy angielski skrót sztucznej inteligencji rozważanej przez Krumsvika i Slettvoll jako wsparcie systemów odpowiedzi.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 2,
+      "wordLengths": [
+        2
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 335,
+      "answer": "QR",
+      "displayAnswer": "QR",
+      "q": "Dwuliterowe oznaczenie kodu skanowanego telefonem, aby dołączyć do ankiety lub głosowania.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 2,
+      "wordLengths": [
+        2
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 336,
+      "answer": "SLIDO",
+      "displayAnswer": "SLIDO",
+      "q": "System użyty przez Höbausa i Schmidmaiera do anonimowego zbierania odpowiedzi podczas wykładów o refleksji.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 337,
+      "answer": "MOODLE",
+      "displayAnswer": "MOODLE",
+      "q": "Platforma wykorzystana przez Höbausa i Schmidmaiera do odroczonego pomiaru wiedzy w badaniu refleksji na wykładach medycznych.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 338,
+      "answer": "KLIKER",
+      "displayAnswer": "KLIKER",
+      "q": "Mały pilot służący studentowi do elektronicznego wskazania odpowiedzi podczas zajęć.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 339,
+      "answer": "SMARTFON",
+      "displayAnswer": "SMARTFON",
+      "q": "Telefon z dostępem do aplikacji i internetu, który może zastępować pilot do głosowania.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 340,
+      "answer": "TABLET",
+      "displayAnswer": "TABLET",
+      "q": "Przenośne urządzenie z ekranem dotykowym, większe od telefonu, używane do odpowiadania lub rysowania.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 341,
+      "answer": "LAPTOP",
+      "displayAnswer": "LAPTOP",
+      "q": "Przenośny komputer z klawiaturą i otwieranym ekranem, umożliwiający udział w głosowaniu internetowym.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 342,
+      "answer": "PLATFORMA",
+      "displayAnswer": "PLATFORMA",
+      "q": "Środowisko internetowe skupiające materiały kursu, zadania i narzędzia komunikacji.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 343,
+      "answer": "HISTOGRAM",
+      "displayAnswer": "HISTOGRAM",
+      "q": "Tak Hornbuckle i współautorzy nazywają wykres zbiorczych odpowiedzi PRS wyświetlany podczas zajęć.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 344,
+      "answer": "AGREGACJA",
+      "displayAnswer": "AGREGACJA",
+      "q": "Łączenie pojedynczych odpowiedzi studentów w zbiorcze zestawienie dla całej sali.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 345,
+      "answer": "ANONIMIZACJA",
+      "displayAnswer": "ANONIMIZACJA",
+      "q": "Przekształcenie danych tak, aby nie można było ustalić tożsamości odpowiadających osób.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 346,
+      "answer": "PRYWATNOŚĆ",
+      "displayAnswer": "PRYWATNOŚĆ",
+      "q": "Sfera ochrony informacji o osobie, ważna przy gromadzeniu danych o odpowiedziach studentów.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 347,
+      "answer": "STRONNICZOŚĆ",
+      "displayAnswer": "STRONNICZOŚĆ",
+      "q": "Systematyczne faworyzowanie jednych grup lub interpretacji przez dane, narzędzie albo sposób analizy.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 348,
+      "answer": "WYJAŚNIALNOŚĆ",
+      "displayAnswer": "WYJAŚNIALNOŚĆ",
+      "q": "Możliwość zrozumienia podstaw sugestii systemu AI, istotna dla oceny jej wiarygodności.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 349,
+      "answer": "CYFRYZACJA",
+      "displayAnswer": "CYFRYZACJA",
+      "q": "Wprowadzanie narzędzi i procesów cyfrowych do działalności uczelni.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 350,
+      "answer": "AUTOMATYZACJA",
+      "displayAnswer": "AUTOMATYZACJA",
+      "q": "Przekazanie systemowi powtarzalnych czynności, takich jak zliczanie odpowiedzi.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 351,
+      "answer": "PERSONALIZACJA",
+      "displayAnswer": "PERSONALIZACJA",
+      "q": "Dostosowanie informacji zwrotnej do potrzeb konkretnego odbiorcy.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 14,
+      "wordLengths": [
+        14
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 352,
+      "answer": "ADAPTACJA",
+      "displayAnswer": "ADAPTACJA",
+      "q": "Zmiana dalszego toku nauczania w odpowiedzi na ujawnione trudności grupy.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 353,
+      "answer": "GRYWALIZACJA",
+      "displayAnswer": "GRYWALIZACJA",
+      "q": "Wprowadzanie punktów, odznak lub innych elementów gier do aktywności dydaktycznej.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 354,
+      "answer": "WIELOZADANIOWOŚĆ",
+      "displayAnswer": "WIELOZADANIOWOŚĆ",
+      "q": "Próba wykonywania kilku czynności naraz, na przykład słuchania wykładu i śledzenia mediów społecznościowych.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 16,
+      "wordLengths": [
+        16
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 355,
+      "answer": "ROZPROSZENIE",
+      "displayAnswer": "ROZPROSZENIE",
+      "q": "Odciągnięcie uwagi od zadania dydaktycznego przez bodźce niezwiązane z jego celem.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 356,
+      "answer": "KOMPETENCJECYFROWE",
+      "displayAnswer": "KOMPETENCJE CYFROWE",
+      "q": "Wiedza i umiejętności potrzebne do świadomego, krytycznego korzystania z technologii edukacyjnych.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 18,
+      "wordLengths": [
+        11,
+        7
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 357,
+      "answer": "ANALITYKAUCZENIA",
+      "displayAnswer": "ANALITYKA UCZENIA",
+      "q": "Analizowanie danych o aktywności i postępach, aby lepiej rozumieć proces uczenia się.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "interaction",
+      "length": 16,
+      "wordLengths": [
+        9,
+        7
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 358,
+      "answer": "PĘTLAINFORMACJIZWROTNEJ",
+      "displayAnswer": "PĘTLA INFORMACJI ZWROTNEJ",
+      "q": "Cykl: odpowiedź studentów, jej interpretacja, reakcja prowadzącego i ponowne sprawdzenie rozumienia.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 23,
+      "wordLengths": [
+        5,
+        10,
+        8
+      ],
+      "wordBreaks": [
+        5,
+        15
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 359,
+      "answer": "ODCIĄŻENIEPOZNAWCZE",
+      "displayAnswer": "ODCIĄŻENIE POZNAWCZE",
+      "q": "Przeniesienie części pracy umysłowej na narzędzie, które może ograniczać własny wysiłek, jeśli jest nadużywane.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "interaction",
+      "length": 19,
+      "wordLengths": [
+        10,
+        9
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 360,
+      "answer": "LUKAINFORMACJIZWROTNEJ",
+      "displayAnswer": "LUKA INFORMACJI ZWROTNEJ",
+      "q": "Rozbieżność między otrzymaniem komentarza do odpowiedzi a wykorzystaniem go w dalszej nauce.",
+      "refs": "2, 3, 4",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "interaction",
+      "length": 22,
+      "wordLengths": [
+        4,
+        10,
+        8
+      ],
+      "wordBreaks": [
+        4,
+        14
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "Krumsvik i Slettvoll: sekcje 1, 3, 5; Höbaus i Schmidmaier: Data acquisition; Hornbuckle i in.: Background",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 361,
+      "answer": "TRZON",
+      "displayAnswer": "TRZON",
+      "q": "Główna część pytania testowego przedstawiająca problem, przed listą wariantów odpowiedzi.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 362,
+      "answer": "DYSTRAKTOR",
+      "displayAnswer": "DYSTRAKTOR",
+      "q": "Niepoprawny, ale wiarygodny wariant odpowiedzi w pytaniu wyboru.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 363,
+      "answer": "KLUCZ",
+      "displayAnswer": "KLUCZ",
+      "q": "Zestaw poprawnych odpowiedzi służący do oceniania testu.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 364,
+      "answer": "POLECENIE",
+      "displayAnswer": "POLECENIE",
+      "q": "Fragment zadania mówiący studentowi, jaką czynność ma wykonać.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 365,
+      "answer": "KRYTERIUM",
+      "displayAnswer": "KRYTERIUM",
+      "q": "Jawna podstawa rozstrzygnięcia, czy odpowiedź spełnia wymagania.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 366,
+      "answer": "JEDNOZNACZNOŚĆ",
+      "displayAnswer": "JEDNOZNACZNOŚĆ",
+      "q": "Cecha pytania pozwalająca zrozumieć je w jeden zamierzony sposób.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 14,
+      "wordLengths": [
+        14
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 367,
+      "answer": "TRUDNOŚĆ",
+      "displayAnswer": "TRUDNOŚĆ",
+      "q": "Cecha zadania opisująca, jak wymagające jest ono dla danej grupy studentów.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 368,
+      "answer": "TRAFNOŚĆTREŚCIOWA",
+      "displayAnswer": "TRAFNOŚĆ TREŚCIOWA",
+      "q": "Stopień, w jakim zadania obejmują wiedzę i umiejętności, które mają być sprawdzane.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "hard",
+      "topic": "design",
+      "length": 17,
+      "wordLengths": [
+        8,
+        9
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 369,
+      "answer": "PYTANIEOTWARTE",
+      "displayAnswer": "PYTANIE OTWARTE",
+      "q": "Pytanie, na które student sam formułuje odpowiedź, bez wybierania z gotowej listy.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 14,
+      "wordLengths": [
+        7,
+        7
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 370,
+      "answer": "PYTANIEZAMKNIĘTE",
+      "displayAnswer": "PYTANIE ZAMKNIĘTE",
+      "q": "Pytanie wymagające wyboru spośród podanych odpowiedzi.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 16,
+      "wordLengths": [
+        7,
+        9
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 371,
+      "answer": "PYTANIEKONCEPCYJNE",
+      "displayAnswer": "PYTANIE KONCEPCYJNE",
+      "q": "Pytanie sprawdzające rozumienie pojęcia lub zależności, a nie wyłącznie pamięć nazwy.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 18,
+      "wordLengths": [
+        7,
+        11
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 372,
+      "answer": "PYTANIEDIAGNOSTYCZNE",
+      "displayAnswer": "PYTANIE DIAGNOSTYCZNE",
+      "q": "Pytanie służące rozpoznaniu aktualnego rozumienia i trudności studentów.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 20,
+      "wordLengths": [
+        7,
+        13
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 373,
+      "answer": "PYTANIEOPEWNOŚĆ",
+      "displayAnswer": "PYTANIE O PEWNOŚĆ",
+      "q": "Pytanie dodatkowe, w którym student określa, jak mocno wierzy w trafność swojego wyboru.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 15,
+      "wordLengths": [
+        7,
+        1,
+        7
+      ],
+      "wordBreaks": [
+        7,
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 374,
+      "answer": "PYTANIEOUZASADNIENIE",
+      "displayAnswer": "PYTANIE O UZASADNIENIE",
+      "q": "Pytanie dodatkowe wymagające podania przesłanek, na których oparto wybór wariantu.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 20,
+      "wordLengths": [
+        7,
+        1,
+        12
+      ],
+      "wordBreaks": [
+        7,
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 375,
+      "answer": "PRZYPADEKKLINICZNY",
+      "displayAnswer": "PRZYPADEK KLINICZNY",
+      "q": "Opis sytuacji pacjenta stanowiący punkt wyjścia do zastosowania wiedzy medycznej.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 18,
+      "wordLengths": [
+        9,
+        9
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 376,
+      "answer": "WINIETA",
+      "displayAnswer": "WINIETA",
+      "q": "Krótki opis przypadku lub sytuacji, na podstawie którego student podejmuje decyzję.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 377,
+      "answer": "SCENARIUSZ",
+      "displayAnswer": "SCENARIUSZ",
+      "q": "Zaplanowany przebieg sytuacji lub aktywności, zawierający kolejne działania uczestników.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 378,
+      "answer": "PRZESŁANKA",
+      "displayAnswer": "PRZESŁANKA",
+      "q": "Informacja przyjęta jako podstawa rozumowania prowadzącego do wniosku.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 379,
+      "answer": "ZAŁOŻENIE",
+      "displayAnswer": "ZAŁOŻENIE",
+      "q": "Warunek przyjęty w zadaniu jako obowiązujący, choć nie jest w nim dowodzony.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 380,
+      "answer": "NEGACJA",
+      "displayAnswer": "NEGACJA",
+      "q": "Zaprzeczenie, na przykład słowo „nie” w pytaniu o wariant niepoprawny.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 381,
+      "answer": "PODPOWIEDŹ",
+      "displayAnswer": "PODPOWIEDŹ",
+      "q": "Dodatkowa wskazówka ułatwiająca rozwiązanie zadania bez ujawnienia całego rozwiązania.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 382,
+      "answer": "NIEJEDNOZNACZNOŚĆ",
+      "displayAnswer": "NIEJEDNOZNACZNOŚĆ",
+      "q": "Wada sformułowania, przez którą pytanie można sensownie zrozumieć na kilka sposobów.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 17,
+      "wordLengths": [
+        17
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 383,
+      "answer": "ŻARGON",
+      "displayAnswer": "ŻARGON",
+      "q": "Specjalistyczne słownictwo, które może utrudniać zrozumienie polecenia osobom początkującym.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 384,
+      "answer": "DEFINICJA",
+      "displayAnswer": "DEFINICJA",
+      "q": "Objaśnienie znaczenia terminu, pozwalające odróżnić go od pojęć pokrewnych.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 385,
+      "answer": "KONTRPRZYKŁAD",
+      "displayAnswer": "KONTRPRZYKŁAD",
+      "q": "Przypadek pokazujący, że proponowane ogólne twierdzenie nie zawsze jest prawdziwe.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 386,
+      "answer": "WARUNEKBRZEGOWY",
+      "displayAnswer": "WARUNEK BRZEGOWY",
+      "q": "Okoliczność wyznaczająca granicę stosowalności omawianej zasady lub modelu.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "hard",
+      "topic": "design",
+      "length": 15,
+      "wordLengths": [
+        7,
+        8
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 387,
+      "answer": "PARAFRAZA",
+      "displayAnswer": "PARAFRAZA",
+      "q": "Przekazanie tego samego sensu innymi słowami; może służyć sprawdzeniu rozumienia polecenia.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 388,
+      "answer": "PRECYZJAJĘZYKA",
+      "displayAnswer": "PRECYZJA JĘZYKA",
+      "q": "Dokładność sformułowania, która ogranicza dowolność interpretacji pytania.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 14,
+      "wordLengths": [
+        8,
+        6
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 389,
+      "answer": "STOPNIOWANIETRUDNOŚCI",
+      "displayAnswer": "STOPNIOWANIE TRUDNOŚCI",
+      "q": "Układanie zadań od prostszych do bardziej wymagających.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 21,
+      "wordLengths": [
+        12,
+        9
+      ],
+      "wordBreaks": [
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 390,
+      "answer": "PILOTAŻPYTANIA",
+      "displayAnswer": "PILOTAŻ PYTANIA",
+      "q": "Próbne użycie nowej pozycji przed właściwym zastosowaniem, aby wykryć niejasności.",
+      "refs": "2, 4, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 14,
+      "wordLengths": [
+        7,
+        7
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie projektowania pytań i omówień w tych pracach",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 391,
+      "answer": "ZESPÓŁ",
+      "displayAnswer": "ZESPÓŁ",
+      "q": "Kilka osób wspólnie pracujących nad jednym zadaniem i jego rozwiązaniem.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 392,
+      "answer": "SĄSIAD",
+      "displayAnswer": "SĄSIAD",
+      "q": "Osoba siedząca obok studenta, z którą może on omówić odpowiedź bez zmiany miejsca.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 393,
+      "answer": "MODERATOR",
+      "displayAnswer": "MODERATOR",
+      "q": "Osoba pilnująca tematu i przebiegu dyskusji oraz dopuszczająca uczestników do głosu.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 394,
+      "answer": "RZECZNIK",
+      "displayAnswer": "RZECZNIK",
+      "q": "Wyznaczona osoba przedstawiająca na forum ustalenia swojego zespołu.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 395,
+      "answer": "SEKRETARZ",
+      "displayAnswer": "SEKRETARZ",
+      "q": "Osoba w zespole zapisująca argumenty i ustalenia pozostałych uczestników.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 396,
+      "answer": "OPONENT",
+      "displayAnswer": "OPONENT",
+      "q": "Uczestnik przedstawiający zastrzeżenia wobec rozpatrywanego stanowiska.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 397,
+      "answer": "KONSENSUS",
+      "displayAnswer": "KONSENSUS",
+      "q": "Wspólne stanowisko wypracowane przez uczestników po rozważeniu różnic.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 398,
+      "answer": "SPÓR",
+      "displayAnswer": "SPÓR",
+      "q": "Sytuacja, w której uczestnicy bronią sprzecznych stanowisk w tej samej sprawie.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 399,
+      "answer": "KONTRARGUMENT",
+      "displayAnswer": "KONTRARGUMENT",
+      "q": "Racja podważająca argument przedstawiony przez rozmówcę.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 400,
+      "answer": "WYMIANA",
+      "displayAnswer": "WYMIANA",
+      "q": "Obustronne przekazywanie sobie myśli lub uzasadnień w rozmowie.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 401,
+      "answer": "SŁUCHANIE",
+      "displayAnswer": "SŁUCHANIE",
+      "q": "Odbieranie wypowiedzi rozmówcy z uwagą, potrzebne do odniesienia się do jego argumentu.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 402,
+      "answer": "WSPÓŁPRACA",
+      "displayAnswer": "WSPÓŁPRACA",
+      "q": "Wspólne działanie na rzecz rozwiązania zadania, zamiast niezależnej pracy każdej osoby.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 403,
+      "answer": "WSPÓŁODPOWIEDZIALNOŚĆ",
+      "displayAnswer": "WSPÓŁODPOWIEDZIALNOŚĆ",
+      "q": "Dzielenie odpowiedzialności za wynik i przebieg pracy zespołu.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 21,
+      "wordLengths": [
+        21
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 404,
+      "answer": "PERSPEKTYWA",
+      "displayAnswer": "PERSPEKTYWA",
+      "q": "Sposób spojrzenia na problem, który może różnić uczestników tej samej rozmowy.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 405,
+      "answer": "UZGODNIENIE",
+      "displayAnswer": "UZGODNIENIE",
+      "q": "Ustalenie wspólnej odpowiedzi po omówieniu rozbieżności w zespole.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 406,
+      "answer": "ROZBIEŻNOŚĆ",
+      "displayAnswer": "ROZBIEŻNOŚĆ",
+      "q": "Różnica między wyborami lub uzasadnieniami studentów, którą można poddać dyskusji.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 407,
+      "answer": "DOMINACJA",
+      "displayAnswer": "DOMINACJA",
+      "q": "Sytuacja, w której jedna osoba przejmuje większość czasu i wpływu w rozmowie zespołu.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 408,
+      "answer": "MILCZENIE",
+      "displayAnswer": "MILCZENIE",
+      "q": "Brak wypowiedzi uczestnika, który sam w sobie nie pozwala rozpoznać poziomu jego wiedzy.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 409,
+      "answer": "PRESJAGRUPY",
+      "displayAnswer": "PRESJA GRUPY",
+      "q": "Wpływ oczekiwań innych osób skłaniający do przyjęcia ich stanowiska.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        6,
+        5
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 410,
+      "answer": "KONFORMIZM",
+      "displayAnswer": "KONFORMIZM",
+      "q": "Dostosowywanie własnej odpowiedzi do stanowiska większości mimo braku przekonujących argumentów.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "hard",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 411,
+      "answer": "AUTONOMIA",
+      "displayAnswer": "AUTONOMIA",
+      "q": "Możliwość samodzielnego wyrobienia i uzasadnienia własnego stanowiska.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 412,
+      "answer": "ZAUFANIE",
+      "displayAnswer": "ZAUFANIE",
+      "q": "Przekonanie, że partnerzy rozmowy potraktują wypowiedź uczciwie i z szacunkiem.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 413,
+      "answer": "SZACUNEK",
+      "displayAnswer": "SZACUNEK",
+      "q": "Traktowanie rozmówcy z poszanowaniem jego godności także przy krytyce odpowiedzi.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 414,
+      "answer": "WZAJEMNOŚĆ",
+      "displayAnswer": "WZAJEMNOŚĆ",
+      "q": "Obustronny udział w słuchaniu i wyjaśnianiu, zamiast jednostronnego pouczania partnera.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 415,
+      "answer": "UDZIAŁ",
+      "displayAnswer": "UDZIAŁ",
+      "q": "Włączenie się w aktywność, na przykład przez zgłoszenie odpowiedzi lub argumentu.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 416,
+      "answer": "ROLEZESPOŁOWE",
+      "displayAnswer": "ROLE ZESPOŁOWE",
+      "q": "Uzgodnione funkcje uczestników, takie jak zapisywanie ustaleń i przedstawianie ich grupie.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        4,
+        9
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 417,
+      "answer": "CZASNANAMYSŁ",
+      "displayAnswer": "CZAS NA NAMYSŁ",
+      "q": "Okres przeznaczony na samodzielne rozważenie pytania przed rozpoczęciem rozmowy.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 12,
+      "wordLengths": [
+        4,
+        2,
+        6
+      ],
+      "wordBreaks": [
+        4,
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 418,
+      "answer": "ROZMOWAWPARZE",
+      "displayAnswer": "ROZMOWA W PARZE",
+      "q": "Wymiana uzasadnień między dwiema osobami przed wspólnym omówieniem w sali.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        7,
+        1,
+        5
+      ],
+      "wordBreaks": [
+        7,
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 419,
+      "answer": "FORUM",
+      "displayAnswer": "FORUM",
+      "q": "Cała grupa jako grono odbiorców wypowiedzi; ustalenia par można przedstawić na nim.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 420,
+      "answer": "RUNDAWYPOWIEDZI",
+      "displayAnswer": "RUNDA WYPOWIEDZI",
+      "q": "Ustalona kolejność krótkich głosów, dająca każdemu uczestnikowi zespołu możliwość udziału.",
+      "refs": "2, 3, 5",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 15,
+      "wordLengths": [
+        5,
+        10
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne na podstawie rozmów w parach, refleksji i pracy zespołów",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 421,
+      "answer": "UCZELNIA",
+      "displayAnswer": "UCZELNIA",
+      "q": "Instytucja szkolnictwa wyższego, w której prowadzi się wykłady i inne zajęcia akademickie.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "role",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 422,
+      "answer": "AUDYTORIUM",
+      "displayAnswer": "AUDYTORIUM",
+      "q": "Ogół słuchaczy, do których prowadzący kieruje wykład.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 423,
+      "answer": "MONOLOG",
+      "displayAnswer": "MONOLOG",
+      "q": "Dłuższa wypowiedź jednej osoby bez wymiany zdań z odbiorcami.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 424,
+      "answer": "PRZEKAZ",
+      "displayAnswer": "PRZEKAZ",
+      "q": "Treść kierowana przez nadawcę do odbiorców, na przykład podczas objaśniania materiału.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 425,
+      "answer": "STRUKTURA",
+      "displayAnswer": "STRUKTURA",
+      "q": "Sposób uporządkowania części wykładu i ich wzajemnych powiązań.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 426,
+      "answer": "ORGANIZACJA",
+      "displayAnswer": "ORGANIZACJA",
+      "q": "Ustalenie warunków i przebiegu zajęć, takich jak czas, miejsca i sposób komunikacji.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 427,
+      "answer": "LOGISTYKA",
+      "displayAnswer": "LOGISTYKA",
+      "q": "Praktyczne zapewnienie sali, sprzętu, dostępu i sprawnego przemieszczania się uczestników.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 428,
+      "answer": "SKALA",
+      "displayAnswer": "SKALA",
+      "q": "Rozmiar przedsięwzięcia dydaktycznego, rosnący wraz z liczbą studentów objętych działaniem.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 429,
+      "answer": "LICZEBNOŚĆ",
+      "displayAnswer": "LICZEBNOŚĆ",
+      "q": "Liczba osób należących do grupy, istotna przy doborze sposobu zbierania odpowiedzi.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 430,
+      "answer": "FREKWENCJA",
+      "displayAnswer": "FREKWENCJA",
+      "q": "Obecność studentów na zajęciach wyrażana liczbą lub udziałem uczestniczących osób.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 431,
+      "answer": "KADRA",
+      "displayAnswer": "KADRA",
+      "q": "Zespół osób zatrudnionych do prowadzenia działalności dydaktycznej i naukowej uczelni.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "role",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 432,
+      "answer": "ZASOBY",
+      "displayAnswer": "ZASOBY",
+      "q": "Dostępne środki, czas, materiały i wyposażenie potrzebne do przygotowania zajęć.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 433,
+      "answer": "OBCIĄŻENIEPRACĄ",
+      "displayAnswer": "OBCIĄŻENIE PRACĄ",
+      "q": "Łączny zakres obowiązków prowadzącego, ograniczający czas na tworzenie materiałów.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 15,
+      "wordLengths": [
+        10,
+        5
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 434,
+      "answer": "PROGRAMSTUDIÓW",
+      "displayAnswer": "PROGRAM STUDIÓW",
+      "q": "Uporządkowany opis kształcenia obejmujący między innymi zajęcia i zakładane efekty uczenia się.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 14,
+      "wordLengths": [
+        7,
+        7
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 435,
+      "answer": "KURS",
+      "displayAnswer": "KURS",
+      "q": "Cykl zajęć poświęcony określonemu przedmiotowi, którego elementem może być wykład.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "role",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 436,
+      "answer": "DYDAKTYKA",
+      "displayAnswer": "DYDAKTYKA",
+      "q": "Dziedzina zajmująca się nauczaniem i uczeniem się oraz organizowaniem tych procesów.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 437,
+      "answer": "METODA",
+      "displayAnswer": "METODA",
+      "q": "Ustalony sposób działania dydaktycznego służący osiągnięciu celu uczenia.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 438,
+      "answer": "FORMAZAJĘĆ",
+      "displayAnswer": "FORMA ZAJĘĆ",
+      "q": "Organizacyjna postać nauczania, na przykład wykład, ćwiczenia lub laboratorium.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 10,
+      "wordLengths": [
+        5,
+        5
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 439,
+      "answer": "NAUCZANIESTACJONARNE",
+      "displayAnswer": "NAUCZANIE STACJONARNE",
+      "q": "Prowadzenie zajęć przy fizycznej obecności studentów i nauczyciela w miejscu nauki.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 20,
+      "wordLengths": [
+        9,
+        11
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 440,
+      "answer": "NAUCZANIEZDALNE",
+      "displayAnswer": "NAUCZANIE ZDALNE",
+      "q": "Prowadzenie zajęć, gdy uczestnicy łączą się na odległość zamiast spotkać się w sali.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 15,
+      "wordLengths": [
+        9,
+        6
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 441,
+      "answer": "KSZTAŁCENIEMIESZANE",
+      "displayAnswer": "KSZTAŁCENIE MIESZANE",
+      "q": "Łączenie elementów nauczania w sali i online w ramach jednego procesu kształcenia.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 19,
+      "wordLengths": [
+        11,
+        8
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 442,
+      "answer": "SZKOLENIEKADRY",
+      "displayAnswer": "SZKOLENIE KADRY",
+      "q": "Zorganizowane rozwijanie umiejętności prowadzących, na przykład w zakresie przygotowania animacji.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 14,
+      "wordLengths": [
+        9,
+        5
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 443,
+      "answer": "WARSZTATDYDAKTYCZNY",
+      "displayAnswer": "WARSZTAT DYDAKTYCZNY",
+      "q": "Zasób umiejętności i sposobów pracy, którymi prowadzący posługuje się podczas nauczania.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 19,
+      "wordLengths": [
+        8,
+        11
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 444,
+      "answer": "MATERIAŁYDYDAKTYCZNE",
+      "displayAnswer": "MATERIAŁY DYDAKTYCZNE",
+      "q": "Teksty, schematy, nagrania i inne zasoby przygotowane do wspierania uczenia się.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 20,
+      "wordLengths": [
+        9,
+        11
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 445,
+      "answer": "REPOZYTORIUM",
+      "displayAnswer": "REPOZYTORIUM",
+      "q": "Uporządkowane miejsce przechowywania i udostępniania zasobów, na przykład szablonów do wykładu.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 446,
+      "answer": "DOŚWIADCZENIE",
+      "displayAnswer": "DOŚWIADCZENIE",
+      "q": "Wiedza praktyczna zdobyta dzięki wcześniejszemu wykonywaniu podobnych działań dydaktycznych.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 447,
+      "answer": "KOMPETENCJA",
+      "displayAnswer": "KOMPETENCJA",
+      "q": "Połączenie wiedzy, umiejętności i postaw potrzebnych do skutecznego wykonywania określonych zadań.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 448,
+      "answer": "NAUKIPRZYRODNICZE",
+      "displayAnswer": "NAUKI PRZYRODNICZE",
+      "q": "Dziedziny badające świat przyrody; fizjologia stanowi przykład obszaru z nimi związanego.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 17,
+      "wordLengths": [
+        5,
+        12
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 449,
+      "answer": "FIZJOLOGIA",
+      "displayAnswer": "FIZJOLOGIA",
+      "q": "Nauka o funkcjonowaniu organizmów, której nauczaniu poświęcono artykuł Corka i Yhnell.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 450,
+      "answer": "KSZTAŁCENIEAKADEMICKIE",
+      "displayAnswer": "KSZTAŁCENIE AKADEMICKIE",
+      "q": "Proces nauczania i uczenia się realizowany na poziomie szkolnictwa wyższego.",
+      "refs": "6",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "role",
+      "length": 22,
+      "wordLengths": [
+        11,
+        11
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 1 i 6: miejsce wykładu, warunki organizacyjne i obciążenie prowadzących",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 451,
+      "answer": "OBRAZ",
+      "displayAnswer": "OBRAZ",
+      "q": "Wizualne przedstawienie treści, które w materiałach multimedialnych można połączyć ze słownym objaśnieniem.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 452,
+      "answer": "SCHEMAT",
+      "displayAnswer": "SCHEMAT",
+      "q": "Uproszczone przedstawienie elementów procesu i zależności między nimi.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 453,
+      "answer": "SZKIC",
+      "displayAnswer": "SZKIC",
+      "q": "Wstępny, uproszczony rysunek pozwalający pokazać najważniejsze elementy wyjaśnienia.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 454,
+      "answer": "IKONA",
+      "displayAnswer": "IKONA",
+      "q": "Mały symbol graficzny reprezentujący obiekt lub działanie w animowanym materiale.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 455,
+      "answer": "SLAJD",
+      "displayAnswer": "SLAJD",
+      "q": "Pojedyncza plansza prezentacji, na której można stopniowo odsłaniać elementy procesu.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 456,
+      "answer": "KADR",
+      "displayAnswer": "KADR",
+      "q": "Pojedynczy obraz filmu lub animacji; jego zatrzymanie pozwala omówić dany moment procesu.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 457,
+      "answer": "RUCH",
+      "displayAnswer": "RUCH",
+      "q": "Zmiana położenia elementu, którą animacja może pokazać bezpośrednio.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 458,
+      "answer": "PROCES",
+      "displayAnswer": "PROCES",
+      "q": "Uporządkowany przebieg zmian w czasie, na przykład kolejne etapy działania odruchu.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 459,
+      "answer": "SEKWENCJA",
+      "displayAnswer": "SEKWENCJA",
+      "q": "Ustalona kolejność elementów, na przykład kroków pokazywanego zjawiska.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 460,
+      "answer": "SZABLON",
+      "displayAnswer": "SZABLON",
+      "q": "Przygotowany wcześniej pusty lub częściowo uzupełniony wzór do wspólnego rysowania.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 461,
+      "answer": "ADNOTACJA",
+      "displayAnswer": "ADNOTACJA",
+      "q": "Dopisek lub oznaczenie nanoszone na schemat podczas jego objaśniania.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 462,
+      "answer": "PROJEKTOR",
+      "displayAnswer": "PROJEKTOR",
+      "q": "Urządzenie wyświetlające materiał prowadzącego na dużym ekranie w sali.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 463,
+      "answer": "KAMERA",
+      "displayAnswer": "KAMERA",
+      "q": "Urządzenie rejestrujące obraz, którym można pokazać studentom rysunek wykonywany na żywo.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "design",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 464,
+      "answer": "POWERPOINT",
+      "displayAnswer": "POWERPOINT",
+      "q": "Program do prezentacji wykorzystany przez Corka i Yhnell do animowania elementów rysunku.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 465,
+      "answer": "MULTIMEDIA",
+      "displayAnswer": "MULTIMEDIA",
+      "q": "Materiały łączące różne sposoby przekazywania treści, na przykład obraz i mowę.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 466,
+      "answer": "WIZUALIZACJA",
+      "displayAnswer": "WIZUALIZACJA",
+      "q": "Przedstawienie informacji w postaci graficznej ułatwiającej śledzenie zależności.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 467,
+      "answer": "KANAŁWERBALNY",
+      "displayAnswer": "KANAŁ WERBALNY",
+      "q": "Sposób przetwarzania informacji słownych omawiany obok przetwarzania obrazów w teorii uczenia multimedialnego.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 13,
+      "wordLengths": [
+        5,
+        8
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 468,
+      "answer": "KANAŁWIZUALNY",
+      "displayAnswer": "KANAŁ WIZUALNY",
+      "q": "Sposób przetwarzania informacji obrazowych omawiany w teorii uczenia multimedialnego.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 13,
+      "wordLengths": [
+        5,
+        8
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 469,
+      "answer": "POJEMNOŚĆ",
+      "displayAnswer": "POJEMNOŚĆ",
+      "q": "Ograniczona ilość informacji, jaką dany kanał przetwarzania może obsłużyć jednocześnie.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 470,
+      "answer": "PRZECIĄŻENIE",
+      "displayAnswer": "PRZECIĄŻENIE",
+      "q": "Stan, w którym wymagania zadania przekraczają dostępne możliwości przetwarzania informacji.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 471,
+      "answer": "SYNCHRONIZACJA",
+      "displayAnswer": "SYNCHRONIZACJA",
+      "q": "Czasowe dopasowanie objaśnienia słownego do pojawiającego się fragmentu obrazu.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 14,
+      "wordLengths": [
+        14
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 472,
+      "answer": "OBRAZSTATYCZNY",
+      "displayAnswer": "OBRAZ STATYCZNY",
+      "q": "Ilustracja, której elementy pozostają nieruchome i widoczne w niezmienionej postaci.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 14,
+      "wordLengths": [
+        5,
+        9
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 473,
+      "answer": "RYSUNEKDYNAMICZNY",
+      "displayAnswer": "RYSUNEK DYNAMICZNY",
+      "q": "Obraz powstający stopniowo podczas objaśniania, zamiast gotowej ilustracji pokazanej od razu.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 17,
+      "wordLengths": [
+        7,
+        10
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 474,
+      "answer": "RYSOWANIENAŻYWO",
+      "displayAnswer": "RYSOWANIE NA ŻYWO",
+      "q": "Tworzenie schematu przez prowadzącego w czasie rzeczywistym, na oczach studentów.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 15,
+      "wordLengths": [
+        9,
+        2,
+        4
+      ],
+      "wordBreaks": [
+        9,
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 475,
+      "answer": "WSPÓLNERYSOWANIE",
+      "displayAnswer": "WSPÓLNE RYSOWANIE",
+      "q": "Aktywność, w której studenci tworzą schemat równolegle z prowadzącym.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 16,
+      "wordLengths": [
+        7,
+        9
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 476,
+      "answer": "OPISSŁOWNY",
+      "displayAnswer": "OPIS SŁOWNY",
+      "q": "Werbalne przedstawienie tego, co pokazuje ilustracja, ważne także dla osób słabowidzących.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 10,
+      "wordLengths": [
+        4,
+        6
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 477,
+      "answer": "MATERIAŁPOWTÓRKOWY",
+      "displayAnswer": "MATERIAŁ POWTÓRKOWY",
+      "q": "Zasób, do którego student wraca po wykładzie, aby utrwalić treści.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 18,
+      "wordLengths": [
+        8,
+        10
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 478,
+      "answer": "ZASOBYTECHNICZNE",
+      "displayAnswer": "ZASOBY TECHNICZNE",
+      "q": "Sprzęt i oprogramowanie potrzebne do przygotowania i wyświetlenia materiału multimedialnego.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 16,
+      "wordLengths": [
+        6,
+        10
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 479,
+      "answer": "OBJAŚNIANIEETAPAMI",
+      "displayAnswer": "OBJAŚNIANIE ETAPAMI",
+      "q": "Przedstawianie procesu krok po kroku, z komentarzem do każdej kolejnej części.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 18,
+      "wordLengths": [
+        11,
+        7
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 480,
+      "answer": "PRZEPŁYW",
+      "displayAnswer": "PRZEPŁYW",
+      "q": "Przemieszczanie się, na przykład płynu w układzie, które można pokazać za pomocą animacji.",
+      "refs": "6",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "design",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "sekcje 2, 4–6: dynamiczne obrazy, rysowanie i narracja",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 481,
+      "answer": "STEM",
+      "displayAnswer": "STEM",
+      "q": "Angielski skrót łączący nauki przyrodnicze, technologię, inżynierię i matematykę w metaanalizie Xu i współautorów.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 482,
+      "answer": "GPA",
+      "displayAnswer": "GPA",
+      "q": "Angielski skrót średniej ocen wykorzystywanej przez Hornbuckle’a i współautorów do opisu wcześniejszych osiągnięć.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 483,
+      "answer": "OLS",
+      "displayAnswer": "OLS",
+      "q": "Skrót angielskiej nazwy zwykłej metody najmniejszych kwadratów używanej w regresji liniowej.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 484,
+      "answer": "MCQ",
+      "displayAnswer": "MCQ",
+      "q": "Angielski skrót pytania wielokrotnego wyboru używany w pracach o sprawdzaniu wiedzy studentów medycyny.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 485,
+      "answer": "LGI",
+      "displayAnswer": "LGI",
+      "q": "Angielski skrót dużej interaktywnej sesji zajęciowej w pracy Boedekera i współautorów o aktywnym i pasywnym nauczaniu.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 486,
+      "answer": "ICAP",
+      "displayAnswer": "ICAP",
+      "q": "Skrót modelu wyróżniającego aktywność interaktywną, konstruktywną, aktywną i pasywną, przywołanego przez Höbausa i Schmidmaiera.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 487,
+      "answer": "TBL",
+      "displayAnswer": "TBL",
+      "q": "Angielski skrót uczenia opartego na zespołach, przywoływanego w pracach o dydaktyce medycznej.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 488,
+      "answer": "PBL",
+      "displayAnswer": "PBL",
+      "q": "Angielski skrót uczenia opartego na problemach, występującego w metaanalizie Xu i współautorów.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 489,
+      "answer": "CBL",
+      "displayAnswer": "CBL",
+      "q": "Angielski skrót uczenia opartego na przypadkach, przywołanego przez Höbausa i Schmidmaiera w pracy o refleksji.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 3,
+      "wordLengths": [
+        3
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 490,
+      "answer": "SD",
+      "displayAnswer": "SD",
+      "q": "Dwuliterowy angielski skrót odchylenia standardowego, używany między innymi do wyrażania wielkości różnic wyników.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 2,
+      "wordLengths": [
+        2
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 491,
+      "answer": "PRÓBA",
+      "displayAnswer": "PRÓBA",
+      "q": "Zbiór osób objętych pomiarem, na podstawie którego badacze formułują wnioski.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 492,
+      "answer": "POPULACJA",
+      "displayAnswer": "POPULACJA",
+      "q": "Ogół osób, do których badacz chciałby odnieść wyniki uzyskane w badaniu.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 493,
+      "answer": "KOHORTA",
+      "displayAnswer": "KOHORTA",
+      "q": "Grupa osób wyodrębniona na podstawie wspólnego doświadczenia lub etapu, na przykład roku studiów.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 494,
+      "answer": "PODGRUPA",
+      "displayAnswer": "PODGRUPA",
+      "q": "Część badanych wyodrębniona do analizy, na przykład według wcześniejszych osiągnięć.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 495,
+      "answer": "RANDOMIZACJA",
+      "displayAnswer": "RANDOMIZACJA",
+      "q": "Losowy przydział uczestników do porównywanych warunków badania.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 496,
+      "answer": "INTERWENCJA",
+      "displayAnswer": "INTERWENCJA",
+      "q": "Działanie wprowadzone w badaniu, którego następstwa są oceniane.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 497,
+      "answer": "GRUPAKONTROLNA",
+      "displayAnswer": "GRUPA KONTROLNA",
+      "q": "Grupa stanowiąca punkt odniesienia do oceny działania interwencji.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 14,
+      "wordLengths": [
+        5,
+        9
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 498,
+      "answer": "EKSPERYMENT",
+      "displayAnswer": "EKSPERYMENT",
+      "q": "Badanie, w którym badacz wprowadza określoną zmianę i obserwuje jej skutki w kontrolowanych warunkach.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 499,
+      "answer": "QUASIEKSPERYMENT",
+      "displayAnswer": "QUASI-EKSPERYMENT",
+      "q": "Badanie interwencji bez pełnego losowego przydziału, wymagające ostrożniejszego wnioskowania przyczynowego.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 16,
+      "wordLengths": [
+        5,
+        11
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 500,
+      "answer": "BADANIEOBSERWACYJNE",
+      "displayAnswer": "BADANIE OBSERWACYJNE",
+      "q": "Badanie rejestrujące zależności bez przydzielania uczestnikom przez badacza ocenianej ekspozycji.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 19,
+      "wordLengths": [
+        7,
+        12
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 501,
+      "answer": "UKŁADKRZYŻOWY",
+      "displayAnswer": "UKŁAD KRZYŻOWY",
+      "q": "Projekt, w którym te same grupy przechodzą kolejno przez oba porównywane warunki.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 13,
+      "wordLengths": [
+        5,
+        8
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 502,
+      "answer": "PRETEST",
+      "displayAnswer": "PRETEST",
+      "q": "Pomiar wiedzy wykonany przed interwencją dydaktyczną.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 503,
+      "answer": "POSTTEST",
+      "displayAnswer": "POSTTEST",
+      "q": "Pomiar wiedzy wykonany po zakończeniu interwencji dydaktycznej.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 504,
+      "answer": "POMIARODROCZONY",
+      "displayAnswer": "POMIAR ODROCZONY",
+      "q": "Sprawdzenie wiedzy po upływie pewnego czasu od zajęć, zamiast wyłącznie bezpośrednio po nich.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 15,
+      "wordLengths": [
+        6,
+        9
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 505,
+      "answer": "RETENCJA",
+      "displayAnswer": "RETENCJA",
+      "q": "Utrzymanie w pamięci wcześniej poznanej wiedzy, oceniane także po przerwie od nauczania.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 506,
+      "answer": "REPLIKACJA",
+      "displayAnswer": "REPLIKACJA",
+      "q": "Ponowne przeprowadzenie badania w celu sprawdzenia, czy jego rezultat się odtworzy.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 507,
+      "answer": "ZMIENNAZAKŁÓCAJĄCA",
+      "displayAnswer": "ZMIENNA ZAKŁÓCAJĄCA",
+      "q": "Czynnik powiązany z badaną przyczyną i wynikiem, który może zniekształcać ocenianą zależność.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 18,
+      "wordLengths": [
+        7,
+        11
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 508,
+      "answer": "EFEKTKOLEJNOŚCI",
+      "displayAnswer": "EFEKT KOLEJNOŚCI",
+      "q": "Wpływ tego, który warunek lub temat uczestnik poznaje jako pierwszy.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 15,
+      "wordLengths": [
+        5,
+        10
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 509,
+      "answer": "EFEKTPRZENIESIENIA",
+      "displayAnswer": "EFEKT PRZENIESIENIA",
+      "q": "Wpływ wcześniejszego warunku badania na wynik uzyskany w warunku późniejszym.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 18,
+      "wordLengths": [
+        5,
+        13
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 510,
+      "answer": "ODPŁYWUCZESTNIKÓW",
+      "displayAnswer": "ODPŁYW UCZESTNIKÓW",
+      "q": "Zmniejszenie liczby badanych między kolejnymi pomiarami wskutek nieuczestniczenia części osób.",
+      "refs": "1, 3, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 17,
+      "wordLengths": [
+        6,
+        11
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "pojęcia do interpretacji projektów badań; sekcje Methods i ograniczenia prac",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 511,
+      "answer": "DANE",
+      "displayAnswer": "DANE",
+      "q": "Zapisane obserwacje lub wyniki pomiarów będące podstawą analizy badawczej.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 512,
+      "answer": "POMIAR",
+      "displayAnswer": "POMIAR",
+      "q": "Przypisanie wyniku obserwowanemu zjawisku według określonej procedury.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 513,
+      "answer": "ZMIENNA",
+      "displayAnswer": "ZMIENNA",
+      "q": "Cecha, która może przyjmować różne wartości, na przykład wynik egzaminu.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 514,
+      "answer": "ŚREDNIA",
+      "displayAnswer": "ŚREDNIA",
+      "q": "Suma wyników podzielona przez ich liczbę; podstawowa miara poziomu wyników grupy.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 515,
+      "answer": "ROZKŁAD",
+      "displayAnswer": "ROZKŁAD",
+      "q": "Sposób występowania wartości w zbiorze danych, pokazujący także ich zróżnicowanie.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 516,
+      "answer": "ODSETEK",
+      "displayAnswer": "ODSETEK",
+      "q": "Udział części w całości wyrażony w procentach.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 517,
+      "answer": "KORELACJA",
+      "displayAnswer": "KORELACJA",
+      "q": "Statystyczna współzmienność dwóch cech, która sama nie dowodzi związku przyczynowego.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 518,
+      "answer": "REGRESJA",
+      "displayAnswer": "REGRESJA",
+      "q": "Rodzina metod modelujących związek wyniku z jedną lub większą liczbą zmiennych objaśniających.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 519,
+      "answer": "ESTYMACJA",
+      "displayAnswer": "ESTYMACJA",
+      "q": "Szacowanie nieznanej wielkości w populacji na podstawie danych z próby.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 520,
+      "answer": "METAANALIZA",
+      "displayAnswer": "METAANALIZA",
+      "q": "Ilościowe łączenie rezultatów wielu badań dotyczących określonego zagadnienia.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 521,
+      "answer": "MODERATOREFEKTU",
+      "displayAnswer": "MODERATOR EFEKTU",
+      "q": "W analizie badań: czynnik, od którego zależy siła lub kierunek obserwowanej różnicy lub zależności.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 15,
+      "wordLengths": [
+        9,
+        6
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 522,
+      "answer": "HETEROGENICZNOŚĆ",
+      "displayAnswer": "HETEROGENICZNOŚĆ",
+      "q": "Zróżnicowanie wyników poszczególnych badań, ważne przy interpretowaniu średniego efektu.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 16,
+      "wordLengths": [
+        16
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 523,
+      "answer": "PRZEDZIAŁUFNOŚCI",
+      "displayAnswer": "PRZEDZIAŁ UFNOŚCI",
+      "q": "Zakres opisujący niepewność oszacowania zgodnie z przyjętą procedurą statystyczną.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 16,
+      "wordLengths": [
+        9,
+        7
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 524,
+      "answer": "WIELKOŚĆEFEKTU",
+      "displayAnswer": "WIELKOŚĆ EFEKTU",
+      "q": "Miara skali różnicy lub zależności, odrębna od samej istotności statystycznej.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 14,
+      "wordLengths": [
+        8,
+        6
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 525,
+      "answer": "ISTOTNOŚĆSTATYSTYCZNA",
+      "displayAnswer": "ISTOTNOŚĆ STATYSTYCZNA",
+      "q": "Właściwość wyniku oceniana względem ustalonego progu w teście hipotezy zerowej.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 21,
+      "wordLengths": [
+        9,
+        12
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 526,
+      "answer": "HIPOTEZAZEROWA",
+      "displayAnswer": "HIPOTEZA ZEROWA",
+      "q": "Założenie testu, często mówiące o braku różnicy lub związku w populacji.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 14,
+      "wordLengths": [
+        8,
+        6
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 527,
+      "answer": "ODCHYLENIESTANDARDOWE",
+      "displayAnswer": "ODCHYLENIE STANDARDOWE",
+      "q": "Miara rozproszenia wyników wokół średniej, której angielski skrót to SD.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 21,
+      "wordLengths": [
+        10,
+        11
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 528,
+      "answer": "PUNKTPROCENTOWY",
+      "displayAnswer": "PUNKT PROCENTOWY",
+      "q": "Jednostka różnicy między dwoma odsetkami; wzrost z 40% do 41% wynosi jeden taki punkt.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 15,
+      "wordLengths": [
+        5,
+        10
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 529,
+      "answer": "WSPÓŁCZYNNIK",
+      "displayAnswer": "WSPÓŁCZYNNIK",
+      "q": "Liczbowa wartość opisująca określoną cechę modelu lub zależności, na przykład nachylenie prostej regresji.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 530,
+      "answer": "NACHYLENIE",
+      "displayAnswer": "NACHYLENIE",
+      "q": "Parametr prostej regresji określający zmianę przewidywanego wyniku przy jednostkowej zmianie predyktora.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 531,
+      "answer": "PREDYKTOR",
+      "displayAnswer": "PREDYKTOR",
+      "q": "Zmienna użyta w modelu do przewidywania lub objaśniania wartości wyniku.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 532,
+      "answer": "ZWIĄZEKPRZYCZYNOWY",
+      "displayAnswer": "ZWIĄZEK PRZYCZYNOWY",
+      "q": "Relacja, w której zmiana jednego czynnika powoduje zmianę drugiego.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 18,
+      "wordLengths": [
+        7,
+        11
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 533,
+      "answer": "UOGÓLNIANIE",
+      "displayAnswer": "UOGÓLNIANIE",
+      "q": "Rozciąganie wniosków z badanej próby na szersze grupy lub inne warunki.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 534,
+      "answer": "TRAFNOŚĆWEWNĘTRZNA",
+      "displayAnswer": "TRAFNOŚĆ WEWNĘTRZNA",
+      "q": "Stopień, w jakim projekt badania pozwala przypisać zaobserwowaną zmianę ocenianej interwencji.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 18,
+      "wordLengths": [
+        8,
+        10
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 535,
+      "answer": "TRAFNOŚĆZEWNĘTRZNA",
+      "displayAnswer": "TRAFNOŚĆ ZEWNĘTRZNA",
+      "q": "Stopień, w jakim wynik badania można odnosić do innych osób i warunków.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 18,
+      "wordLengths": [
+        8,
+        10
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 536,
+      "answer": "WYNIKZBIORCZY",
+      "displayAnswer": "WYNIK ZBIORCZY",
+      "q": "Łączne oszacowanie otrzymane z połączenia rezultatów wielu badań.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 13,
+      "wordLengths": [
+        5,
+        8
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 537,
+      "answer": "MODELMIESZANY",
+      "displayAnswer": "MODEL MIESZANY",
+      "q": "Model statystyczny zawierający efekty stałe i losowe, użyty przez Boedekera i współautorów do porównania aktywnych i pasywnych sesji medycznych.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 13,
+      "wordLengths": [
+        5,
+        8
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 538,
+      "answer": "KONTROLASTATYSTYCZNA",
+      "displayAnswer": "KONTROLA STATYSTYCZNA",
+      "q": "Uwzględnienie dodatkowych zmiennych w analizie, aby ograniczyć ich wpływ na ocenę związku.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "hard",
+      "topic": "balance",
+      "length": 20,
+      "wordLengths": [
+        8,
+        12
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 539,
+      "answer": "BRAKDANYCH",
+      "displayAnswer": "BRAK DANYCH",
+      "q": "Sytuacja, w której dla części uczestników lub zmiennych nie uzyskano potrzebnego wyniku pomiaru.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 10,
+      "wordLengths": [
+        4,
+        6
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 540,
+      "answer": "OGRANICZENIEBADANIA",
+      "displayAnswer": "OGRANICZENIE BADANIA",
+      "q": "Właściwość projektu lub danych zawężająca zakres uzasadnionych wniosków.",
+      "refs": "1, 4, 5",
+      "type": "pojęcie pomocnicze",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 19,
+      "wordLengths": [
+        12,
+        7
+      ],
+      "wordBreaks": [
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "terminologia do odczytywania analiz i ograniczeń wyników",
+      "basis": "Definicja pomocnicza opracowana na potrzeby krzyżówki; artykuły wskazują kontekst użycia."
+    },
+    {
+      "id": 541,
+      "answer": "NOTATKA",
+      "displayAnswer": "NOTATKA",
+      "q": "Krótki zapis własnych przemyśleń, wykonywany na przykład w indywidualnej fazie refleksji.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 542,
+      "answer": "ZAPIS",
+      "displayAnswer": "ZAPIS",
+      "q": "Utrwalona postać wypowiedzi lub odpowiedzi, pozwalająca wrócić do niej później.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 543,
+      "answer": "INTUICJA",
+      "displayAnswer": "INTUICJA",
+      "q": "Pierwsze rozpoznanie lub przekonanie pojawiające się bez świadomego prześledzenia wszystkich przesłanek.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 544,
+      "answer": "WERYFIKACJA",
+      "displayAnswer": "WERYFIKACJA",
+      "q": "Sprawdzenie, czy odpowiedź lub twierdzenie znajduje potwierdzenie w danych i zasadach.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 545,
+      "answer": "REWIZJA",
+      "displayAnswer": "REWIZJA",
+      "q": "Ponowne rozpatrzenie własnego stanowiska prowadzące do jego zmiany lub doprecyzowania.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 7,
+      "wordLengths": [
+        7
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 546,
+      "answer": "LUKAWWIEDZY",
+      "displayAnswer": "LUKA W WIEDZY",
+      "q": "Brak konkretnej informacji lub rozumienia ujawniony podczas samodzielnego odpowiadania.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        4,
+        1,
+        6
+      ],
+      "wordBreaks": [
+        4,
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 547,
+      "answer": "BŁĘDNEPRZEKONANIE",
+      "displayAnswer": "BŁĘDNE PRZEKONANIE",
+      "q": "Utrwalony pogląd niezgodny z poprawnym wyjaśnieniem zjawiska, który może ujawnić pytanie koncepcyjne.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 17,
+      "wordLengths": [
+        6,
+        11
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 548,
+      "answer": "FAŁSZYWAPEWNOŚĆ",
+      "displayAnswer": "FAŁSZYWA PEWNOŚĆ",
+      "q": "Silne przekonanie o poprawności odpowiedzi mimo jej rzeczywistej błędności.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 15,
+      "wordLengths": [
+        8,
+        7
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 549,
+      "answer": "POCZUCIEUCZENIA",
+      "displayAnswer": "POCZUCIE UCZENIA",
+      "q": "Subiektywna ocena tego, ile dały zajęcia, odróżniana od wyniku testu przez Boedekera i współautorów.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 15,
+      "wordLengths": [
+        8,
+        7
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 550,
+      "answer": "TESTWIEDZY",
+      "displayAnswer": "TEST WIEDZY",
+      "q": "Zestaw zadań służących pomiarowi opanowania wiadomości i ich rozumienia.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 10,
+      "wordLengths": [
+        4,
+        6
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 551,
+      "answer": "OCENIANIEKSZTAŁTUJĄCE",
+      "displayAnswer": "OCENIANIE KSZTAŁTUJĄCE",
+      "q": "Wykorzystywanie informacji o postępach w trakcie nauki do kierowania dalszym uczeniem i nauczaniem.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 21,
+      "wordLengths": [
+        9,
+        12
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 552,
+      "answer": "OCENIANIESUMUJĄCE",
+      "displayAnswer": "OCENIANIE SUMUJĄCE",
+      "q": "Ocenianie podsumowujące osiągnięcia po zakończeniu określonego etapu kształcenia.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 17,
+      "wordLengths": [
+        9,
+        8
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 553,
+      "answer": "OCENAWŁASNEJPEWNOŚCI",
+      "displayAnswer": "OCENA WŁASNEJ PEWNOŚCI",
+      "q": "Deklaracja studenta, jak mocno wierzy w poprawność właśnie udzielonej odpowiedzi.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 20,
+      "wordLengths": [
+        5,
+        7,
+        8
+      ],
+      "wordBreaks": [
+        5,
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 554,
+      "answer": "SAMODZIELNAODPOWIEDŹ",
+      "displayAnswer": "SAMODZIELNA ODPOWIEDŹ",
+      "q": "Wybór dokonany przed rozmową z innymi studentami, ujawniający własne stanowisko.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 20,
+      "wordLengths": [
+        11,
+        9
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 555,
+      "answer": "PONOWNEGŁOSOWANIE",
+      "displayAnswer": "PONOWNE GŁOSOWANIE",
+      "q": "Powtórne zebranie wyborów studentów po rozmowie lub wyjaśnieniu.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 17,
+      "wordLengths": [
+        7,
+        10
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 556,
+      "answer": "ZMIANAODPOWIEDZI",
+      "displayAnswer": "ZMIANA ODPOWIEDZI",
+      "q": "Wybranie innego wariantu niż wcześniej, które nie musi samo oznaczać poprawy rozumienia.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 16,
+      "wordLengths": [
+        6,
+        10
+      ],
+      "wordBreaks": [
+        6
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 557,
+      "answer": "UZASADNIONAZMIANA",
+      "displayAnswer": "UZASADNIONA ZMIANA",
+      "q": "Korekta stanowiska oparta na rozważeniu przesłanek, a nie tylko na wyborze większości.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 17,
+      "wordLengths": [
+        11,
+        6
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 558,
+      "answer": "MONITOROWANIE",
+      "displayAnswer": "MONITOROWANIE",
+      "q": "Systematyczne obserwowanie postępów lub rozumienia podczas procesu uczenia się.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 559,
+      "answer": "PRZYGOTOWANIE",
+      "displayAnswer": "PRZYGOTOWANIE",
+      "q": "Wykonanie działań poprzedzających zajęcia, na przykład zapoznanie się z tekstem potrzebnym do dyskusji.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "easy",
+      "topic": "interaction",
+      "length": 13,
+      "wordLengths": [
+        13
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 560,
+      "answer": "WCZEŚNIEJSZEOSIĄGNIĘCIA",
+      "displayAnswer": "WCZEŚNIEJSZE OSIĄGNIĘCIA",
+      "q": "Wyniki uzyskane przed badanymi zajęciami, według których można porównywać podgrupy studentów.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 23,
+      "wordLengths": [
+        12,
+        11
+      ],
+      "wordBreaks": [
+        12
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 561,
+      "answer": "ZAANGAŻOWANIEPOZNAWCZE",
+      "displayAnswer": "ZAANGAŻOWANIE POZNAWCZE",
+      "q": "Wysiłek umysłowy wkładany w rozumienie, łączenie informacji i rozwiązywanie zadania.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 22,
+      "wordLengths": [
+        13,
+        9
+      ],
+      "wordBreaks": [
+        13
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 562,
+      "answer": "ZAANGAŻOWANIEEMOCJONALNE",
+      "displayAnswer": "ZAANGAŻOWANIE EMOCJONALNE",
+      "q": "Wymiar udziału obejmujący zainteresowanie, odczucia i poczucie przynależności.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 24,
+      "wordLengths": [
+        13,
+        11
+      ],
+      "wordBreaks": [
+        13
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 563,
+      "answer": "ZAANGAŻOWANIEBEHAWIORALNE",
+      "displayAnswer": "ZAANGAŻOWANIE BEHAWIORALNE",
+      "q": "Wymiar udziału widoczny w zachowaniu, na przykład obecności lub odpowiadaniu na pytania.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 25,
+      "wordLengths": [
+        13,
+        12
+      ],
+      "wordBreaks": [
+        13
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 564,
+      "answer": "CZĘSTOŚĆODPOWIADANIA",
+      "displayAnswer": "CZĘSTOŚĆ ODPOWIADANIA",
+      "q": "To, jak często student udziela odpowiedzi; wskaźnik zachowania, który nie opisuje całego rozumienia.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 20,
+      "wordLengths": [
+        8,
+        12
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 565,
+      "answer": "TRAFNOŚĆODPOWIEDZI",
+      "displayAnswer": "TRAFNOŚĆ ODPOWIEDZI",
+      "q": "Stopień zgodności wyboru studenta z poprawnym rozwiązaniem zadania.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 18,
+      "wordLengths": [
+        8,
+        10
+      ],
+      "wordBreaks": [
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 566,
+      "answer": "SATYSFAKCJA",
+      "displayAnswer": "SATYSFAKCJA",
+      "q": "Zadowolenie z udziału w zajęciach, które należy odróżniać od wyniku sprawdzianu wiedzy.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 567,
+      "answer": "ZAINTERESOWANIE",
+      "displayAnswer": "ZAINTERESOWANIE",
+      "q": "Zaciekawienie treścią, sprzyjające podejmowaniu aktywności, ale niebędące samo pomiarem wiedzy.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 15,
+      "wordLengths": [
+        15
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 568,
+      "answer": "NASTAWIENIE",
+      "displayAnswer": "NASTAWIENIE",
+      "q": "Względnie trwały stosunek studenta do zadania lub formy zajęć, wpływający na gotowość udziału.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 569,
+      "answer": "GOTOWOŚĆ",
+      "displayAnswer": "GOTOWOŚĆ",
+      "q": "Stan przygotowania i skłonności do podjęcia działania, na przykład zabrania głosu.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 8,
+      "wordLengths": [
+        8
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 570,
+      "answer": "OCENAODROCZONA",
+      "displayAnswer": "OCENA ODROCZONA",
+      "q": "Ocena dokonana po przerwie od zajęć, pozwalająca porównać późniejsze odczucia z oceną bezpośrednią.",
+      "refs": "2, 3, 4, 5",
+      "type": "opracowanie dydaktyczne",
+      "difficulty": "medium",
+      "topic": "interaction",
+      "length": 14,
+      "wordLengths": [
+        5,
+        9
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "refleksja, pomiar zaangażowania i oddzielanie samooceny od wyników",
+      "basis": "Opracowanie dydaktyczne treści materiałów; nie jest cytatem z publikacji."
+    },
+    {
+      "id": 571,
+      "answer": "CZAS",
+      "displayAnswer": "CZAS",
+      "q": "Zasób, którego ograniczona ilość wymusza ustalenie długości wyjaśnienia, zadania i omówienia.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 572,
+      "answer": "PLAN",
+      "displayAnswer": "PLAN",
+      "q": "Z góry ustalony układ działań, który pomaga rozdzielić wykład i aktywności studentów.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 573,
+      "answer": "RYTM",
+      "displayAnswer": "RYTM",
+      "q": "Regularność przechodzenia między słuchaniem, samodzielną pracą i rozmową podczas zajęć.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 4,
+      "wordLengths": [
+        4
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 574,
+      "answer": "TEMPO",
+      "displayAnswer": "TEMPO",
+      "q": "Szybkość realizowania kolejnych części zajęć, którą można zmienić po zebraniu odpowiedzi.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 575,
+      "answer": "PAUZA",
+      "displayAnswer": "PAUZA",
+      "q": "Krótkie zatrzymanie wypowiedzi prowadzącego, dające studentom chwilę na przetworzenie informacji.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 576,
+      "answer": "BUFOR",
+      "displayAnswer": "BUFOR",
+      "q": "Zapas czasu pozostawiony w planie na nieprzewidziane trudności lub dodatkowe wyjaśnienie.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 577,
+      "answer": "LIMIT",
+      "displayAnswer": "LIMIT",
+      "q": "Ustalona górna granica czasu lub liczby wypowiedzi w danej aktywności.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 5,
+      "wordLengths": [
+        5
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 578,
+      "answer": "SYGNAŁ",
+      "displayAnswer": "SYGNAŁ",
+      "q": "Uzgodniony znak informujący, że kończy się rozmowa w parach i wraca wspólne omówienie.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 6,
+      "wordLengths": [
+        6
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 579,
+      "answer": "PRIORYTET",
+      "displayAnswer": "PRIORYTET",
+      "q": "Element uznany za najważniejszy, któremu należy poświęcić czas mimo ograniczeń zajęć.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 580,
+      "answer": "HARMONOGRAM",
+      "displayAnswer": "HARMONOGRAM",
+      "q": "Plan określający kolejność działań oraz czas ich rozpoczęcia lub trwania.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 581,
+      "answer": "PRZEJŚCIE",
+      "displayAnswer": "PRZEJŚCIE",
+      "q": "Moment zmiany formy pracy, na przykład z objaśnienia prowadzącego na dyskusję studentów.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 582,
+      "answer": "OMÓWIENIE",
+      "displayAnswer": "OMÓWIENIE",
+      "q": "Wspólne przeanalizowanie odpowiedzi i ich przyczyn po wykonaniu zadania.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 583,
+      "answer": "PODSUMOWANIE",
+      "displayAnswer": "PODSUMOWANIE",
+      "q": "Końcowe zebranie najważniejszych ustaleń z zadania lub fragmentu zajęć.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "easy",
+      "topic": "balance",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 584,
+      "answer": "INTENSYWNOŚĆ",
+      "displayAnswer": "INTENSYWNOŚĆ",
+      "q": "W ujęciu metaanalizy Xu i współautorów: zakres udziału aktywnego uczenia w czasie zajęć.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 585,
+      "answer": "PROPORCJA",
+      "displayAnswer": "PROPORCJA",
+      "q": "Stosunek ilości czasu przeznaczonego na jedną formę pracy do czasu na inną.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 9,
+      "wordLengths": [
+        9
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 586,
+      "answer": "NAPRZEMIENNOŚĆ",
+      "displayAnswer": "NAPRZEMIENNOŚĆ",
+      "q": "Organizowanie zajęć tak, by różne formy pracy następowały kolejno jedna po drugiej.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 14,
+      "wordLengths": [
+        14
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 587,
+      "answer": "ELASTYCZNOŚĆ",
+      "displayAnswer": "ELASTYCZNOŚĆ",
+      "q": "Możliwość modyfikowania planu zajęć, gdy odpowiedzi studentów ujawniają trudności.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 12,
+      "wordLengths": [
+        12
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 588,
+      "answer": "SEGMENTACJA",
+      "displayAnswer": "SEGMENTACJA",
+      "q": "Dzielenie treści lub przebiegu wykładu na mniejsze części możliwe do osobnego opracowania.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 11,
+      "wordLengths": [
+        11
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 589,
+      "answer": "ODWRÓCONAKLASA",
+      "displayAnswer": "ODWRÓCONA KLASA",
+      "q": "Model, w którym wprowadzenie do treści odbywa się przed zajęciami, a wspólny czas służy pracy z nimi.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 14,
+      "wordLengths": [
+        9,
+        5
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 590,
+      "answer": "PRACAGRUPOWA",
+      "displayAnswer": "PRACA GRUPOWA",
+      "q": "Forma aktywności, w której kilka osób wspólnie wykonuje zadanie.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 12,
+      "wordLengths": [
+        5,
+        7
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 591,
+      "answer": "ZAJĘCIATYPUSTUDIO",
+      "displayAnswer": "ZAJĘCIA TYPU STUDIO",
+      "q": "Format łączący elementy wykładu z pracą praktyczną lub laboratoryjną, wyróżniony w metaanalizie Xu i współautorów.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 17,
+      "wordLengths": [
+        7,
+        4,
+        6
+      ],
+      "wordBreaks": [
+        7,
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 592,
+      "answer": "KOMBINACJAMETOD",
+      "displayAnswer": "KOMBINACJA METOD",
+      "q": "Połączenie kilku sposobów aktywnego uczenia w jednym kursie lub scenariuszu zajęć.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 15,
+      "wordLengths": [
+        10,
+        5
+      ],
+      "wordBreaks": [
+        10
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 593,
+      "answer": "DOSTĘPNOŚĆ",
+      "displayAnswer": "DOSTĘPNOŚĆ",
+      "q": "Możliwość korzystania z aktywności także przez osoby o różnych potrzebach i ograniczeniach.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 10,
+      "wordLengths": [
+        10
+      ],
+      "wordBreaks": [],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 594,
+      "answer": "BARIERAUDZIAŁU",
+      "displayAnswer": "BARIERA UDZIAŁU",
+      "q": "Przeszkoda utrudniająca studentowi włączenie się w aktywność, na przykład brak urządzenia.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 14,
+      "wordLengths": [
+        7,
+        7
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 595,
+      "answer": "ALTERNATYWAPAPIEROWA",
+      "displayAnswer": "ALTERNATYWA PAPIEROWA",
+      "q": "Sposób udzielenia odpowiedzi na kartce, gdy student nie może skorzystać z narzędzia cyfrowego.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 20,
+      "wordLengths": [
+        11,
+        9
+      ],
+      "wordBreaks": [
+        11
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 596,
+      "answer": "PLANAWARYJNY",
+      "displayAnswer": "PLAN AWARYJNY",
+      "q": "Przygotowany wariant prowadzenia aktywności na wypadek niesprawności podstawowego narzędzia.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 12,
+      "wordLengths": [
+        4,
+        8
+      ],
+      "wordBreaks": [
+        4
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 597,
+      "answer": "JAWNEZASADY",
+      "displayAnswer": "JAWNE ZASADY",
+      "q": "Reguły udziału i oceniania przedstawione studentom przed rozpoczęciem aktywności.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 11,
+      "wordLengths": [
+        5,
+        6
+      ],
+      "wordBreaks": [
+        5
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 598,
+      "answer": "PUNKTYZAUDZIAŁ",
+      "displayAnswer": "PUNKTY ZA UDZIAŁ",
+      "q": "Sposób premiowania samego odpowiadania, a nie wyłącznie trafnych wyborów.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 14,
+      "wordLengths": [
+        6,
+        2,
+        6
+      ],
+      "wordBreaks": [
+        6,
+        8
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 599,
+      "answer": "PONOWNEWYKORZYSTANIE",
+      "displayAnswer": "PONOWNE WYKORZYSTANIE",
+      "q": "Zastosowanie istniejącego materiału na kolejnych zajęciach po sprawdzeniu jego przydatności.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 20,
+      "wordLengths": [
+        7,
+        13
+      ],
+      "wordBreaks": [
+        7
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    },
+    {
+      "id": 600,
+      "answer": "STOPNIOWEWDRAŻANIE",
+      "displayAnswer": "STOPNIOWE WDRAŻANIE",
+      "q": "Wprowadzanie zmian dydaktycznych małymi krokami, umożliwiające ocenę wykonalności i korektę.",
+      "refs": "1, 2, 3, 4, 5, 6",
+      "type": "przykład praktyczny",
+      "difficulty": "medium",
+      "topic": "balance",
+      "length": 18,
+      "wordLengths": [
+        9,
+        9
+      ],
+      "wordBreaks": [
+        9
+      ],
+      "crosswordReady": true,
+      "sourceLocator": "opracowanie własne: organizacja interakcji i bilans czasu na podstawie całego korpusu",
+      "basis": "Autorski przykład zastosowania; nie jest odrębnym wynikiem badania."
+    }
+  ]
+}
